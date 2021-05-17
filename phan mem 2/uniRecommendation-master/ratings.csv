@@ -1,0 +1,2781 @@
+UserID,Name_Uni,Rating
+1,Hanoi University of Technology:,5
+1,Military Technical Academy:,4
+1,"University of Technology, University of Da Nang:",4
+1,"Polytechnic University, National University of Ho Chi Minh City:",1
+1,"University of Industrial Technology, Thai Nguyen University:",0
+1,University of Transport:,2
+1,Hai Phong University:,1
+1,Hanoi University of Mining and Geology:,3
+1,Hanoi University of Agriculture:,3
+1,University of Transport Technology,3
+1,Irrigation University:,0
+1,Construction University:,2
+1,Forestry University:,3
+1,Electricity University:,5
+1,University of Economic and Technical Industry:,0
+1,Hanoi University of Industry:,1
+1,Quang Ninh Industrial University:,1
+1,Viet Hung University of Industry:,4
+1,Viet Tri University of Industry:,2
+1,Bac Giang University of Agriculture and Forestry:,3
+1,Sao Do University,2
+1,Hung Yen University of Technical Education,1
+1,Nam Dinh University of Technical Education,4
+1,Vinh University of Technical Education,5
+1,Vinh University of Industry,4
+1,Central Construction University,3
+1,Nha Trang University,4
+1,Ho Chi Minh City University of Industry,0
+1,Ho Chi Minh City University of Food Industry,2
+1,Ho Chi Minh City University of Transport,0
+1,Ho Chi Minh City University of Agriculture and Forestry,2
+1,Ho Chi Minh City University of Technical Education,0
+1,Tran Dai Nghia University,0
+1,Vietnam Maritime University,4
+1,Ngo Quyen University,0
+1,Ho Chi Minh City University of Technology and Technology,0
+1,Long An University of Economics and Industry,3
+1,Binh Duong University of Economics and Technology,2
+1,Lac Hong University,5
+1,Nguyen Tat Thanh University,2
+1,Saigon University of Technology,5
+1,Can Tho University,5
+1,Hanoi Medical University,2
+1,Ho Chi Minh City University of Medicine and Pharmacy,1
+1,Hanoi University of Pharmacy,4
+1,Military Medical Academy,5
+1,Thai Binh University of Medicine and Pharmacy,0
+1,Can Tho University of Medicine and Pharmacy,4
+1,Hue University of Medicine and Pharmacy,2
+1,Pham Ngoc Thach Medical University,1
+1,Faculty of Medicine - Ho Chi Minh City National University,3
+1,Vietnam Traditional Medicine and Pharmacy Institute,3
+1,Hai Phong University of Medicine and Pharmacy,3
+1,Vinh Medical University,2
+1,University of Medicine and Pharmacy - Thai Nguyen University,5
+1,HA NOI PHARMACEUTICAL DEPARTMENT,5
+1,University of Economic and Technical Industry,4
+1,Thanh Tay University,5
+1,Forestry University (Campus 1),5
+1,Hanoi University of Science and Technology ...,0
+1,University of Technology - The University of Da Nang,2
+1,Can Tho University,4
+1,Nha Trang University,3
+1,Nghe An University of Economics,1
+1,The University of Ba Ria - Vung Tau ...,0
+1,Vietnam National Academy of Music,4
+1,Vietnam University of Fine Arts,3
+1,Central University of Art Education,0
+1,Hue Academy of Music,0
+1,Ho Chi Minh City Conservatory of Music,4
+1,Ho Chi Minh City University of Fine Arts,1
+1,Military Culture - Art University,0
+1,Hanoi University of Theater and Cinema,4
+1,Northwestern College of Culture and Arts,5
+1,Dong Nai College of Decorative Arts,2
+1,Industrial Art University,0
+1,Asian University of Industrial Fine Arts,2
+1,Ho Chi Minh City University of Theater and Cinema,1
+1,Vietnam Dance Academy,3
+1,Viet Bac College of Culture and Arts,4
+1,An College of Culture and Arts,5
+1,Hanoi University of Education,1
+1,Education University - Hanoi National University,1
+1,HCMC University of Education,5
+1,Central University of Art Education,5
+1,University of Foreign Languages ??- Hanoi National University (QHF),4
+1,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+1,University of Education - Thai Nguyen University,4
+1,University of Education - The University of Da Nang,0
+1,University of Education - Hue University,0
+1,Hanoi University of Education 2,3
+1,University of Social Sciences and Humanities - Hanoi National University,4
+1,Journalism Academy - Propaganda,2
+1,Journalism Academy - Propaganda,4
+1,Journalism Academy - Propaganda,4
+1,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+1,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+1,University of Labor - Society (Hanoi Campus),0
+1,Labor - Social University (Hanoi Campus),2
+1,University Union,5
+1,Ton Duc Thang University,3
+1,University of Education - The University of Da Nang,1
+1,University of Labor - Society (Southern campus),2
+1,University of Labor - Society (Southern campus),2
+1,University of Labor - Society (Son Tay Campus),2
+1,Vietnamese Women's Academy,4
+1,University of Science - Hue University,4
+1,Quy Nhon University,0
+1,University of Science - Thai Nguyen University,0
+1,"Thanh Hoa University of Culture, Sports and Tourism",1
+1,Hoa Binh University,3
+1,National Economic University,1
+1,University of Economics - Hanoi National University,0
+1,University of Commerce,2
+1,Foreign Trade University,0
+1,Academy of Finance,5
+1,University of Economics - The University of Da Nang,0
+1,University of Economics - Law (UEL),1
+1,University of Economics and Finance Ho Chi Minh City (UEF),4
+1,University of Finance - Marketing (UFM),5
+1,Foreign Trade University of Ho Chi Minh City,4
+1,Banking Academy,5
+1,Banking University of Ho Chi Minh City,1
+1,Ton Duc Thang University,0
+1,Hanoi University of Internal Affairs,0
+1,Hanoi University,2
+1,Hanoi Capital University,5
+1,Hanoi University of Culture,3
+1,Hanoi University of Social Sciences and Humanities,5
+1,Hanoi University of Industry,5
+1,Hanoi Open University,2
+1,Vietnam Women's Academy,1
+1,University of Commerce,2
+1,National Economics University,5
+1,Thanh Do University,3
+1,Thang Long University,3
+1,FPT University,4
+1,Huu Nghi University of Technology and Management,5
+1,Dai Nam University,5
+2,Hanoi University of Technology:,0
+2,Military Technical Academy:,1
+2,"University of Technology, University of Da Nang:",4
+2,"Polytechnic University, National University of Ho Chi Minh City:",3
+2,"University of Industrial Technology, Thai Nguyen University:",0
+2,University of Transport:,1
+2,Hai Phong University:,5
+2,Hanoi University of Mining and Geology:,1
+2,Hanoi University of Agriculture:,0
+2,University of Transport Technology,4
+2,Irrigation University:,4
+2,Construction University:,3
+2,Forestry University:,2
+2,Electricity University:,4
+2,University of Economic and Technical Industry:,0
+2,Hanoi University of Industry:,2
+2,Quang Ninh Industrial University:,1
+2,Viet Hung University of Industry:,5
+2,Viet Tri University of Industry:,1
+2,Bac Giang University of Agriculture and Forestry:,0
+2,Sao Do University,3
+2,Hung Yen University of Technical Education,0
+2,Nam Dinh University of Technical Education,0
+2,Vinh University of Technical Education,5
+2,Vinh University of Industry,1
+2,Central Construction University,4
+2,Nha Trang University,3
+2,Ho Chi Minh City University of Industry,2
+2,Ho Chi Minh City University of Food Industry,4
+2,Ho Chi Minh City University of Transport,5
+2,Ho Chi Minh City University of Agriculture and Forestry,3
+2,Ho Chi Minh City University of Technical Education,2
+2,Tran Dai Nghia University,2
+2,Vietnam Maritime University,0
+2,Ngo Quyen University,3
+2,Ho Chi Minh City University of Technology and Technology,3
+2,Long An University of Economics and Industry,3
+2,Binh Duong University of Economics and Technology,1
+2,Lac Hong University,0
+2,Nguyen Tat Thanh University,1
+2,Saigon University of Technology,5
+2,Can Tho University,1
+2,Hanoi Medical University,0
+2,Ho Chi Minh City University of Medicine and Pharmacy,0
+2,Hanoi University of Pharmacy,5
+2,Military Medical Academy,4
+2,Thai Binh University of Medicine and Pharmacy,1
+2,Can Tho University of Medicine and Pharmacy,5
+2,Hue University of Medicine and Pharmacy,3
+2,Pham Ngoc Thach Medical University,3
+2,Faculty of Medicine - Ho Chi Minh City National University,5
+2,Vietnam Traditional Medicine and Pharmacy Institute,4
+2,Hai Phong University of Medicine and Pharmacy,2
+2,Vinh Medical University,4
+2,University of Medicine and Pharmacy - Thai Nguyen University,0
+2,HA NOI PHARMACEUTICAL DEPARTMENT,4
+2,University of Economic and Technical Industry,0
+2,Thanh Tay University,0
+2,Forestry University (Campus 1),1
+2,Hanoi University of Science and Technology ...,2
+2,University of Technology - The University of Da Nang,0
+2,Can Tho University,4
+2,Nha Trang University,2
+2,Nghe An University of Economics,1
+2,The University of Ba Ria - Vung Tau ...,1
+2,Vietnam National Academy of Music,4
+2,Vietnam University of Fine Arts,3
+2,Central University of Art Education,0
+2,Hue Academy of Music,5
+2,Ho Chi Minh City Conservatory of Music,3
+2,Ho Chi Minh City University of Fine Arts,0
+2,Military Culture - Art University,3
+2,Hanoi University of Theater and Cinema,0
+2,Northwestern College of Culture and Arts,3
+2,Dong Nai College of Decorative Arts,4
+2,Industrial Art University,0
+2,Asian University of Industrial Fine Arts,3
+2,Ho Chi Minh City University of Theater and Cinema,1
+2,Vietnam Dance Academy,5
+2,Viet Bac College of Culture and Arts,0
+2,An College of Culture and Arts,4
+2,Hanoi University of Education,4
+2,Education University - Hanoi National University,2
+2,HCMC University of Education,1
+2,Central University of Art Education,5
+2,University of Foreign Languages ??- Hanoi National University (QHF),5
+2,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+2,University of Education - Thai Nguyen University,4
+2,University of Education - The University of Da Nang,2
+2,University of Education - Hue University,0
+2,Hanoi University of Education 2,2
+2,University of Social Sciences and Humanities - Hanoi National University,0
+2,Journalism Academy - Propaganda,5
+2,Journalism Academy - Propaganda,5
+2,Journalism Academy - Propaganda,3
+2,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+2,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+2,University of Labor - Society (Hanoi Campus),4
+2,Labor - Social University (Hanoi Campus),0
+2,University Union,0
+2,Ton Duc Thang University,2
+2,University of Education - The University of Da Nang,3
+2,University of Labor - Society (Southern campus),1
+2,University of Labor - Society (Southern campus),4
+2,University of Labor - Society (Son Tay Campus),3
+2,Vietnamese Women's Academy,0
+2,University of Science - Hue University,3
+2,Quy Nhon University,1
+2,University of Science - Thai Nguyen University,0
+2,"Thanh Hoa University of Culture, Sports and Tourism",0
+2,Hoa Binh University,4
+2,National Economic University,2
+2,University of Economics - Hanoi National University,3
+2,University of Commerce,5
+2,Foreign Trade University,2
+2,Academy of Finance,2
+2,University of Economics - The University of Da Nang,3
+2,University of Economics - Law (UEL),0
+2,University of Economics and Finance Ho Chi Minh City (UEF),3
+2,University of Finance - Marketing (UFM),5
+2,Foreign Trade University of Ho Chi Minh City,1
+2,Banking Academy,4
+2,Banking University of Ho Chi Minh City,0
+2,Ton Duc Thang University,1
+2,Hanoi University of Internal Affairs,3
+2,Hanoi University,2
+2,Hanoi Capital University,3
+2,Hanoi University of Culture,4
+2,Hanoi University of Social Sciences and Humanities,0
+2,Hanoi University of Industry,5
+2,Hanoi Open University,2
+2,Vietnam Women's Academy,2
+2,University of Commerce,2
+2,National Economics University,0
+2,Thanh Do University,5
+2,Thang Long University,1
+2,FPT University,3
+2,Huu Nghi University of Technology and Management,4
+2,Dai Nam University,3
+3,Hanoi University of Technology:,1
+3,Military Technical Academy:,2
+3,"University of Technology, University of Da Nang:",3
+3,"Polytechnic University, National University of Ho Chi Minh City:",5
+3,"University of Industrial Technology, Thai Nguyen University:",2
+3,University of Transport:,5
+3,Hai Phong University:,2
+3,Hanoi University of Mining and Geology:,0
+3,Hanoi University of Agriculture:,2
+3,University of Transport Technology,3
+3,Irrigation University:,4
+3,Construction University:,1
+3,Forestry University:,5
+3,Electricity University:,0
+3,University of Economic and Technical Industry:,1
+3,Hanoi University of Industry:,4
+3,Quang Ninh Industrial University:,4
+3,Viet Hung University of Industry:,3
+3,Viet Tri University of Industry:,5
+3,Bac Giang University of Agriculture and Forestry:,0
+3,Sao Do University,2
+3,Hung Yen University of Technical Education,5
+3,Nam Dinh University of Technical Education,1
+3,Vinh University of Technical Education,5
+3,Vinh University of Industry,3
+3,Central Construction University,1
+3,Nha Trang University,2
+3,Ho Chi Minh City University of Industry,3
+3,Ho Chi Minh City University of Food Industry,3
+3,Ho Chi Minh City University of Transport,3
+3,Ho Chi Minh City University of Agriculture and Forestry,0
+3,Ho Chi Minh City University of Technical Education,0
+3,Tran Dai Nghia University,5
+3,Vietnam Maritime University,1
+3,Ngo Quyen University,5
+3,Ho Chi Minh City University of Technology and Technology,3
+3,Long An University of Economics and Industry,2
+3,Binh Duong University of Economics and Technology,4
+3,Lac Hong University,3
+3,Nguyen Tat Thanh University,5
+3,Saigon University of Technology,0
+3,Can Tho University,1
+3,Hanoi Medical University,0
+3,Ho Chi Minh City University of Medicine and Pharmacy,5
+3,Hanoi University of Pharmacy,3
+3,Military Medical Academy,1
+3,Thai Binh University of Medicine and Pharmacy,3
+3,Can Tho University of Medicine and Pharmacy,3
+3,Hue University of Medicine and Pharmacy,2
+3,Pham Ngoc Thach Medical University,1
+3,Faculty of Medicine - Ho Chi Minh City National University,0
+3,Vietnam Traditional Medicine and Pharmacy Institute,0
+3,Hai Phong University of Medicine and Pharmacy,3
+3,Vinh Medical University,2
+3,University of Medicine and Pharmacy - Thai Nguyen University,5
+3,HA NOI PHARMACEUTICAL DEPARTMENT,0
+3,University of Economic and Technical Industry,1
+3,Thanh Tay University,0
+3,Forestry University (Campus 1),2
+3,Hanoi University of Science and Technology ...,5
+3,University of Technology - The University of Da Nang,3
+3,Can Tho University,5
+3,Nha Trang University,3
+3,Nghe An University of Economics,0
+3,The University of Ba Ria - Vung Tau ...,0
+3,Vietnam National Academy of Music,5
+3,Vietnam University of Fine Arts,4
+3,Central University of Art Education,2
+3,Hue Academy of Music,4
+3,Ho Chi Minh City Conservatory of Music,1
+3,Ho Chi Minh City University of Fine Arts,0
+3,Military Culture - Art University,3
+3,Hanoi University of Theater and Cinema,2
+3,Northwestern College of Culture and Arts,0
+3,Dong Nai College of Decorative Arts,4
+3,Industrial Art University,1
+3,Asian University of Industrial Fine Arts,5
+3,Ho Chi Minh City University of Theater and Cinema,0
+3,Vietnam Dance Academy,2
+3,Viet Bac College of Culture and Arts,2
+3,An College of Culture and Arts,2
+3,Hanoi University of Education,5
+3,Education University - Hanoi National University,1
+3,HCMC University of Education,5
+3,Central University of Art Education,5
+3,University of Foreign Languages ??- Hanoi National University (QHF),0
+3,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+3,University of Education - Thai Nguyen University,0
+3,University of Education - The University of Da Nang,4
+3,University of Education - Hue University,4
+3,Hanoi University of Education 2,2
+3,University of Social Sciences and Humanities - Hanoi National University,4
+3,Journalism Academy - Propaganda,1
+3,Journalism Academy - Propaganda,4
+3,Journalism Academy - Propaganda,1
+3,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+3,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+3,University of Labor - Society (Hanoi Campus),1
+3,Labor - Social University (Hanoi Campus),2
+3,University Union,1
+3,Ton Duc Thang University,4
+3,University of Education - The University of Da Nang,2
+3,University of Labor - Society (Southern campus),1
+3,University of Labor - Society (Southern campus),0
+3,University of Labor - Society (Son Tay Campus),1
+3,Vietnamese Women's Academy,5
+3,University of Science - Hue University,0
+3,Quy Nhon University,2
+3,University of Science - Thai Nguyen University,5
+3,"Thanh Hoa University of Culture, Sports and Tourism",5
+3,Hoa Binh University,3
+3,National Economic University,0
+3,University of Economics - Hanoi National University,3
+3,University of Commerce,3
+3,Foreign Trade University,0
+3,Academy of Finance,5
+3,University of Economics - The University of Da Nang,1
+3,University of Economics - Law (UEL),3
+3,University of Economics and Finance Ho Chi Minh City (UEF),0
+3,University of Finance - Marketing (UFM),1
+3,Foreign Trade University of Ho Chi Minh City,2
+3,Banking Academy,0
+3,Banking University of Ho Chi Minh City,2
+3,Ton Duc Thang University,3
+3,Hanoi University of Internal Affairs,2
+3,Hanoi University,0
+3,Hanoi Capital University,3
+3,Hanoi University of Culture,5
+3,Hanoi University of Social Sciences and Humanities,1
+3,Hanoi University of Industry,5
+3,Hanoi Open University,4
+3,Vietnam Women's Academy,4
+3,University of Commerce,5
+3,National Economics University,1
+3,Thanh Do University,5
+3,Thang Long University,0
+3,FPT University,5
+3,Huu Nghi University of Technology and Management,0
+3,Dai Nam University,3
+4,Hanoi University of Technology:,2
+4,Military Technical Academy:,4
+4,"University of Technology, University of Da Nang:",1
+4,"Polytechnic University, National University of Ho Chi Minh City:",3
+4,"University of Industrial Technology, Thai Nguyen University:",3
+4,University of Transport:,4
+4,Hai Phong University:,2
+4,Hanoi University of Mining and Geology:,0
+4,Hanoi University of Agriculture:,2
+4,University of Transport Technology,3
+4,Irrigation University:,1
+4,Construction University:,5
+4,Forestry University:,1
+4,Electricity University:,5
+4,University of Economic and Technical Industry:,3
+4,Hanoi University of Industry:,1
+4,Quang Ninh Industrial University:,5
+4,Viet Hung University of Industry:,1
+4,Viet Tri University of Industry:,2
+4,Bac Giang University of Agriculture and Forestry:,0
+4,Sao Do University,1
+4,Hung Yen University of Technical Education,2
+4,Nam Dinh University of Technical Education,2
+4,Vinh University of Technical Education,0
+4,Vinh University of Industry,3
+4,Central Construction University,1
+4,Nha Trang University,2
+4,Ho Chi Minh City University of Industry,5
+4,Ho Chi Minh City University of Food Industry,3
+4,Ho Chi Minh City University of Transport,5
+4,Ho Chi Minh City University of Agriculture and Forestry,4
+4,Ho Chi Minh City University of Technical Education,4
+4,Tran Dai Nghia University,3
+4,Vietnam Maritime University,4
+4,Ngo Quyen University,4
+4,Ho Chi Minh City University of Technology and Technology,5
+4,Long An University of Economics and Industry,1
+4,Binh Duong University of Economics and Technology,2
+4,Lac Hong University,1
+4,Nguyen Tat Thanh University,4
+4,Saigon University of Technology,5
+4,Can Tho University,0
+4,Hanoi Medical University,0
+4,Ho Chi Minh City University of Medicine and Pharmacy,5
+4,Hanoi University of Pharmacy,0
+4,Military Medical Academy,0
+4,Thai Binh University of Medicine and Pharmacy,2
+4,Can Tho University of Medicine and Pharmacy,5
+4,Hue University of Medicine and Pharmacy,3
+4,Pham Ngoc Thach Medical University,5
+4,Faculty of Medicine - Ho Chi Minh City National University,2
+4,Vietnam Traditional Medicine and Pharmacy Institute,5
+4,Hai Phong University of Medicine and Pharmacy,2
+4,Vinh Medical University,1
+4,University of Medicine and Pharmacy - Thai Nguyen University,5
+4,HA NOI PHARMACEUTICAL DEPARTMENT,4
+4,University of Economic and Technical Industry,4
+4,Thanh Tay University,0
+4,Forestry University (Campus 1),5
+4,Hanoi University of Science and Technology ...,5
+4,University of Technology - The University of Da Nang,4
+4,Can Tho University,0
+4,Nha Trang University,5
+4,Nghe An University of Economics,1
+4,The University of Ba Ria - Vung Tau ...,2
+4,Vietnam National Academy of Music,4
+4,Vietnam University of Fine Arts,1
+4,Central University of Art Education,0
+4,Hue Academy of Music,0
+4,Ho Chi Minh City Conservatory of Music,4
+4,Ho Chi Minh City University of Fine Arts,3
+4,Military Culture - Art University,5
+4,Hanoi University of Theater and Cinema,0
+4,Northwestern College of Culture and Arts,0
+4,Dong Nai College of Decorative Arts,4
+4,Industrial Art University,3
+4,Asian University of Industrial Fine Arts,4
+4,Ho Chi Minh City University of Theater and Cinema,3
+4,Vietnam Dance Academy,0
+4,Viet Bac College of Culture and Arts,4
+4,An College of Culture and Arts,5
+4,Hanoi University of Education,4
+4,Education University - Hanoi National University,1
+4,HCMC University of Education,4
+4,Central University of Art Education,1
+4,University of Foreign Languages ??- Hanoi National University (QHF),0
+4,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+4,University of Education - Thai Nguyen University,0
+4,University of Education - The University of Da Nang,4
+4,University of Education - Hue University,1
+4,Hanoi University of Education 2,0
+4,University of Social Sciences and Humanities - Hanoi National University,3
+4,Journalism Academy - Propaganda,1
+4,Journalism Academy - Propaganda,4
+4,Journalism Academy - Propaganda,3
+4,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+4,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+4,University of Labor - Society (Hanoi Campus),5
+4,Labor - Social University (Hanoi Campus),5
+4,University Union,4
+4,Ton Duc Thang University,0
+4,University of Education - The University of Da Nang,3
+4,University of Labor - Society (Southern campus),3
+4,University of Labor - Society (Southern campus),0
+4,University of Labor - Society (Son Tay Campus),4
+4,Vietnamese Women's Academy,1
+4,University of Science - Hue University,3
+4,Quy Nhon University,4
+4,University of Science - Thai Nguyen University,1
+4,"Thanh Hoa University of Culture, Sports and Tourism",5
+4,Hoa Binh University,2
+4,National Economic University,1
+4,University of Economics - Hanoi National University,5
+4,University of Commerce,0
+4,Foreign Trade University,5
+4,Academy of Finance,1
+4,University of Economics - The University of Da Nang,2
+4,University of Economics - Law (UEL),4
+4,University of Economics and Finance Ho Chi Minh City (UEF),3
+4,University of Finance - Marketing (UFM),4
+4,Foreign Trade University of Ho Chi Minh City,1
+4,Banking Academy,5
+4,Banking University of Ho Chi Minh City,2
+4,Ton Duc Thang University,0
+4,Hanoi University of Internal Affairs,5
+4,Hanoi University,0
+4,Hanoi Capital University,1
+4,Hanoi University of Culture,3
+4,Hanoi University of Social Sciences and Humanities,5
+4,Hanoi University of Industry,5
+4,Hanoi Open University,0
+4,Vietnam Women's Academy,5
+4,University of Commerce,1
+4,National Economics University,1
+4,Thanh Do University,4
+4,Thang Long University,5
+4,FPT University,5
+4,Huu Nghi University of Technology and Management,3
+4,Dai Nam University,1
+5,Hanoi University of Technology:,4
+5,Military Technical Academy:,4
+5,"University of Technology, University of Da Nang:",0
+5,"Polytechnic University, National University of Ho Chi Minh City:",5
+5,"University of Industrial Technology, Thai Nguyen University:",2
+5,University of Transport:,3
+5,Hai Phong University:,0
+5,Hanoi University of Mining and Geology:,0
+5,Hanoi University of Agriculture:,5
+5,University of Transport Technology,4
+5,Irrigation University:,1
+5,Construction University:,5
+5,Forestry University:,4
+5,Electricity University:,1
+5,University of Economic and Technical Industry:,3
+5,Hanoi University of Industry:,3
+5,Quang Ninh Industrial University:,5
+5,Viet Hung University of Industry:,4
+5,Viet Tri University of Industry:,4
+5,Bac Giang University of Agriculture and Forestry:,0
+5,Sao Do University,0
+5,Hung Yen University of Technical Education,3
+5,Nam Dinh University of Technical Education,3
+5,Vinh University of Technical Education,0
+5,Vinh University of Industry,3
+5,Central Construction University,1
+5,Nha Trang University,0
+5,Ho Chi Minh City University of Industry,5
+5,Ho Chi Minh City University of Food Industry,1
+5,Ho Chi Minh City University of Transport,3
+5,Ho Chi Minh City University of Agriculture and Forestry,2
+5,Ho Chi Minh City University of Technical Education,5
+5,Tran Dai Nghia University,1
+5,Vietnam Maritime University,0
+5,Ngo Quyen University,0
+5,Ho Chi Minh City University of Technology and Technology,0
+5,Long An University of Economics and Industry,4
+5,Binh Duong University of Economics and Technology,2
+5,Lac Hong University,0
+5,Nguyen Tat Thanh University,4
+5,Saigon University of Technology,3
+5,Can Tho University,2
+5,Hanoi Medical University,4
+5,Ho Chi Minh City University of Medicine and Pharmacy,1
+5,Hanoi University of Pharmacy,2
+5,Military Medical Academy,1
+5,Thai Binh University of Medicine and Pharmacy,0
+5,Can Tho University of Medicine and Pharmacy,2
+5,Hue University of Medicine and Pharmacy,4
+5,Pham Ngoc Thach Medical University,1
+5,Faculty of Medicine - Ho Chi Minh City National University,5
+5,Vietnam Traditional Medicine and Pharmacy Institute,4
+5,Hai Phong University of Medicine and Pharmacy,3
+5,Vinh Medical University,2
+5,University of Medicine and Pharmacy - Thai Nguyen University,0
+5,HA NOI PHARMACEUTICAL DEPARTMENT,4
+5,University of Economic and Technical Industry,5
+5,Thanh Tay University,2
+5,Forestry University (Campus 1),2
+5,Hanoi University of Science and Technology ...,0
+5,University of Technology - The University of Da Nang,3
+5,Can Tho University,1
+5,Nha Trang University,5
+5,Nghe An University of Economics,1
+5,The University of Ba Ria - Vung Tau ...,4
+5,Vietnam National Academy of Music,3
+5,Vietnam University of Fine Arts,1
+5,Central University of Art Education,2
+5,Hue Academy of Music,3
+5,Ho Chi Minh City Conservatory of Music,2
+5,Ho Chi Minh City University of Fine Arts,4
+5,Military Culture - Art University,4
+5,Hanoi University of Theater and Cinema,1
+5,Northwestern College of Culture and Arts,0
+5,Dong Nai College of Decorative Arts,0
+5,Industrial Art University,1
+5,Asian University of Industrial Fine Arts,5
+5,Ho Chi Minh City University of Theater and Cinema,2
+5,Vietnam Dance Academy,4
+5,Viet Bac College of Culture and Arts,4
+5,An College of Culture and Arts,1
+5,Hanoi University of Education,0
+5,Education University - Hanoi National University,4
+5,HCMC University of Education,4
+5,Central University of Art Education,0
+5,University of Foreign Languages ??- Hanoi National University (QHF),1
+5,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+5,University of Education - Thai Nguyen University,4
+5,University of Education - The University of Da Nang,1
+5,University of Education - Hue University,3
+5,Hanoi University of Education 2,5
+5,University of Social Sciences and Humanities - Hanoi National University,5
+5,Journalism Academy - Propaganda,5
+5,Journalism Academy - Propaganda,3
+5,Journalism Academy - Propaganda,4
+5,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+5,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+5,University of Labor - Society (Hanoi Campus),0
+5,Labor - Social University (Hanoi Campus),5
+5,University Union,2
+5,Ton Duc Thang University,1
+5,University of Education - The University of Da Nang,4
+5,University of Labor - Society (Southern campus),0
+5,University of Labor - Society (Southern campus),3
+5,University of Labor - Society (Son Tay Campus),1
+5,Vietnamese Women's Academy,5
+5,University of Science - Hue University,5
+5,Quy Nhon University,2
+5,University of Science - Thai Nguyen University,5
+5,"Thanh Hoa University of Culture, Sports and Tourism",4
+5,Hoa Binh University,4
+5,National Economic University,4
+5,University of Economics - Hanoi National University,3
+5,University of Commerce,1
+5,Foreign Trade University,4
+5,Academy of Finance,1
+5,University of Economics - The University of Da Nang,5
+5,University of Economics - Law (UEL),4
+5,University of Economics and Finance Ho Chi Minh City (UEF),2
+5,University of Finance - Marketing (UFM),4
+5,Foreign Trade University of Ho Chi Minh City,5
+5,Banking Academy,3
+5,Banking University of Ho Chi Minh City,1
+5,Ton Duc Thang University,2
+5,Hanoi University of Internal Affairs,5
+5,Hanoi University,5
+5,Hanoi Capital University,5
+5,Hanoi University of Culture,2
+5,Hanoi University of Social Sciences and Humanities,2
+5,Hanoi University of Industry,1
+5,Hanoi Open University,0
+5,Vietnam Women's Academy,1
+5,University of Commerce,3
+5,National Economics University,0
+5,Thanh Do University,5
+5,Thang Long University,2
+5,FPT University,1
+5,Huu Nghi University of Technology and Management,3
+5,Dai Nam University,5
+6,Hanoi University of Technology:,0
+6,Military Technical Academy:,2
+6,"University of Technology, University of Da Nang:",2
+6,"Polytechnic University, National University of Ho Chi Minh City:",4
+6,"University of Industrial Technology, Thai Nguyen University:",5
+6,University of Transport:,4
+6,Hai Phong University:,1
+6,Hanoi University of Mining and Geology:,5
+6,Hanoi University of Agriculture:,2
+6,University of Transport Technology,3
+6,Irrigation University:,2
+6,Construction University:,1
+6,Forestry University:,4
+6,Electricity University:,3
+6,University of Economic and Technical Industry:,0
+6,Hanoi University of Industry:,4
+6,Quang Ninh Industrial University:,0
+6,Viet Hung University of Industry:,3
+6,Viet Tri University of Industry:,1
+6,Bac Giang University of Agriculture and Forestry:,0
+6,Sao Do University,2
+6,Hung Yen University of Technical Education,3
+6,Nam Dinh University of Technical Education,2
+6,Vinh University of Technical Education,1
+6,Vinh University of Industry,2
+6,Central Construction University,5
+6,Nha Trang University,1
+6,Ho Chi Minh City University of Industry,5
+6,Ho Chi Minh City University of Food Industry,4
+6,Ho Chi Minh City University of Transport,0
+6,Ho Chi Minh City University of Agriculture and Forestry,4
+6,Ho Chi Minh City University of Technical Education,3
+6,Tran Dai Nghia University,1
+6,Vietnam Maritime University,0
+6,Ngo Quyen University,4
+6,Ho Chi Minh City University of Technology and Technology,1
+6,Long An University of Economics and Industry,1
+6,Binh Duong University of Economics and Technology,4
+6,Lac Hong University,1
+6,Nguyen Tat Thanh University,3
+6,Saigon University of Technology,5
+6,Can Tho University,0
+6,Hanoi Medical University,4
+6,Ho Chi Minh City University of Medicine and Pharmacy,1
+6,Hanoi University of Pharmacy,4
+6,Military Medical Academy,1
+6,Thai Binh University of Medicine and Pharmacy,1
+6,Can Tho University of Medicine and Pharmacy,5
+6,Hue University of Medicine and Pharmacy,3
+6,Pham Ngoc Thach Medical University,5
+6,Faculty of Medicine - Ho Chi Minh City National University,5
+6,Vietnam Traditional Medicine and Pharmacy Institute,2
+6,Hai Phong University of Medicine and Pharmacy,2
+6,Vinh Medical University,0
+6,University of Medicine and Pharmacy - Thai Nguyen University,1
+6,HA NOI PHARMACEUTICAL DEPARTMENT,2
+6,University of Economic and Technical Industry,3
+6,Thanh Tay University,2
+6,Forestry University (Campus 1),4
+6,Hanoi University of Science and Technology ...,4
+6,University of Technology - The University of Da Nang,5
+6,Can Tho University,4
+6,Nha Trang University,3
+6,Nghe An University of Economics,3
+6,The University of Ba Ria - Vung Tau ...,1
+6,Vietnam National Academy of Music,1
+6,Vietnam University of Fine Arts,5
+6,Central University of Art Education,5
+6,Hue Academy of Music,1
+6,Ho Chi Minh City Conservatory of Music,3
+6,Ho Chi Minh City University of Fine Arts,5
+6,Military Culture - Art University,1
+6,Hanoi University of Theater and Cinema,4
+6,Northwestern College of Culture and Arts,1
+6,Dong Nai College of Decorative Arts,5
+6,Industrial Art University,1
+6,Asian University of Industrial Fine Arts,1
+6,Ho Chi Minh City University of Theater and Cinema,2
+6,Vietnam Dance Academy,1
+6,Viet Bac College of Culture and Arts,1
+6,An College of Culture and Arts,5
+6,Hanoi University of Education,2
+6,Education University - Hanoi National University,1
+6,HCMC University of Education,4
+6,Central University of Art Education,2
+6,University of Foreign Languages ??- Hanoi National University (QHF),2
+6,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+6,University of Education - Thai Nguyen University,4
+6,University of Education - The University of Da Nang,5
+6,University of Education - Hue University,4
+6,Hanoi University of Education 2,3
+6,University of Social Sciences and Humanities - Hanoi National University,5
+6,Journalism Academy - Propaganda,2
+6,Journalism Academy - Propaganda,5
+6,Journalism Academy - Propaganda,1
+6,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+6,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+6,University of Labor - Society (Hanoi Campus),2
+6,Labor - Social University (Hanoi Campus),4
+6,University Union,0
+6,Ton Duc Thang University,5
+6,University of Education - The University of Da Nang,4
+6,University of Labor - Society (Southern campus),4
+6,University of Labor - Society (Southern campus),0
+6,University of Labor - Society (Son Tay Campus),0
+6,Vietnamese Women's Academy,2
+6,University of Science - Hue University,4
+6,Quy Nhon University,4
+6,University of Science - Thai Nguyen University,5
+6,"Thanh Hoa University of Culture, Sports and Tourism",1
+6,Hoa Binh University,4
+6,National Economic University,3
+6,University of Economics - Hanoi National University,2
+6,University of Commerce,1
+6,Foreign Trade University,4
+6,Academy of Finance,4
+6,University of Economics - The University of Da Nang,0
+6,University of Economics - Law (UEL),5
+6,University of Economics and Finance Ho Chi Minh City (UEF),3
+6,University of Finance - Marketing (UFM),5
+6,Foreign Trade University of Ho Chi Minh City,0
+6,Banking Academy,4
+6,Banking University of Ho Chi Minh City,0
+6,Ton Duc Thang University,3
+6,Hanoi University of Internal Affairs,3
+6,Hanoi University,0
+6,Hanoi Capital University,2
+6,Hanoi University of Culture,0
+6,Hanoi University of Social Sciences and Humanities,0
+6,Hanoi University of Industry,4
+6,Hanoi Open University,2
+6,Vietnam Women's Academy,3
+6,University of Commerce,0
+6,National Economics University,4
+6,Thanh Do University,0
+6,Thang Long University,0
+6,FPT University,3
+6,Huu Nghi University of Technology and Management,4
+6,Dai Nam University,1
+7,Hanoi University of Technology:,0
+7,Military Technical Academy:,1
+7,"University of Technology, University of Da Nang:",3
+7,"Polytechnic University, National University of Ho Chi Minh City:",3
+7,"University of Industrial Technology, Thai Nguyen University:",2
+7,University of Transport:,4
+7,Hai Phong University:,0
+7,Hanoi University of Mining and Geology:,0
+7,Hanoi University of Agriculture:,3
+7,University of Transport Technology,3
+7,Irrigation University:,1
+7,Construction University:,1
+7,Forestry University:,1
+7,Electricity University:,3
+7,University of Economic and Technical Industry:,1
+7,Hanoi University of Industry:,0
+7,Quang Ninh Industrial University:,0
+7,Viet Hung University of Industry:,4
+7,Viet Tri University of Industry:,4
+7,Bac Giang University of Agriculture and Forestry:,0
+7,Sao Do University,5
+7,Hung Yen University of Technical Education,1
+7,Nam Dinh University of Technical Education,4
+7,Vinh University of Technical Education,4
+7,Vinh University of Industry,4
+7,Central Construction University,5
+7,Nha Trang University,3
+7,Ho Chi Minh City University of Industry,4
+7,Ho Chi Minh City University of Food Industry,5
+7,Ho Chi Minh City University of Transport,1
+7,Ho Chi Minh City University of Agriculture and Forestry,4
+7,Ho Chi Minh City University of Technical Education,1
+7,Tran Dai Nghia University,0
+7,Vietnam Maritime University,0
+7,Ngo Quyen University,1
+7,Ho Chi Minh City University of Technology and Technology,5
+7,Long An University of Economics and Industry,3
+7,Binh Duong University of Economics and Technology,5
+7,Lac Hong University,1
+7,Nguyen Tat Thanh University,5
+7,Saigon University of Technology,2
+7,Can Tho University,0
+7,Hanoi Medical University,5
+7,Ho Chi Minh City University of Medicine and Pharmacy,2
+7,Hanoi University of Pharmacy,2
+7,Military Medical Academy,2
+7,Thai Binh University of Medicine and Pharmacy,3
+7,Can Tho University of Medicine and Pharmacy,5
+7,Hue University of Medicine and Pharmacy,0
+7,Pham Ngoc Thach Medical University,5
+7,Faculty of Medicine - Ho Chi Minh City National University,1
+7,Vietnam Traditional Medicine and Pharmacy Institute,3
+7,Hai Phong University of Medicine and Pharmacy,0
+7,Vinh Medical University,4
+7,University of Medicine and Pharmacy - Thai Nguyen University,3
+7,HA NOI PHARMACEUTICAL DEPARTMENT,5
+7,University of Economic and Technical Industry,2
+7,Thanh Tay University,2
+7,Forestry University (Campus 1),3
+7,Hanoi University of Science and Technology ...,4
+7,University of Technology - The University of Da Nang,3
+7,Can Tho University,4
+7,Nha Trang University,5
+7,Nghe An University of Economics,4
+7,The University of Ba Ria - Vung Tau ...,0
+7,Vietnam National Academy of Music,4
+7,Vietnam University of Fine Arts,3
+7,Central University of Art Education,3
+7,Hue Academy of Music,1
+7,Ho Chi Minh City Conservatory of Music,3
+7,Ho Chi Minh City University of Fine Arts,2
+7,Military Culture - Art University,3
+7,Hanoi University of Theater and Cinema,5
+7,Northwestern College of Culture and Arts,1
+7,Dong Nai College of Decorative Arts,2
+7,Industrial Art University,2
+7,Asian University of Industrial Fine Arts,0
+7,Ho Chi Minh City University of Theater and Cinema,3
+7,Vietnam Dance Academy,2
+7,Viet Bac College of Culture and Arts,1
+7,An College of Culture and Arts,0
+7,Hanoi University of Education,3
+7,Education University - Hanoi National University,2
+7,HCMC University of Education,3
+7,Central University of Art Education,2
+7,University of Foreign Languages ??- Hanoi National University (QHF),2
+7,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+7,University of Education - Thai Nguyen University,0
+7,University of Education - The University of Da Nang,5
+7,University of Education - Hue University,3
+7,Hanoi University of Education 2,3
+7,University of Social Sciences and Humanities - Hanoi National University,4
+7,Journalism Academy - Propaganda,5
+7,Journalism Academy - Propaganda,3
+7,Journalism Academy - Propaganda,4
+7,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+7,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+7,University of Labor - Society (Hanoi Campus),1
+7,Labor - Social University (Hanoi Campus),3
+7,University Union,3
+7,Ton Duc Thang University,5
+7,University of Education - The University of Da Nang,0
+7,University of Labor - Society (Southern campus),1
+7,University of Labor - Society (Southern campus),2
+7,University of Labor - Society (Son Tay Campus),0
+7,Vietnamese Women's Academy,1
+7,University of Science - Hue University,1
+7,Quy Nhon University,2
+7,University of Science - Thai Nguyen University,2
+7,"Thanh Hoa University of Culture, Sports and Tourism",2
+7,Hoa Binh University,4
+7,National Economic University,0
+7,University of Economics - Hanoi National University,0
+7,University of Commerce,0
+7,Foreign Trade University,4
+7,Academy of Finance,5
+7,University of Economics - The University of Da Nang,4
+7,University of Economics - Law (UEL),3
+7,University of Economics and Finance Ho Chi Minh City (UEF),2
+7,University of Finance - Marketing (UFM),2
+7,Foreign Trade University of Ho Chi Minh City,1
+7,Banking Academy,2
+7,Banking University of Ho Chi Minh City,1
+7,Ton Duc Thang University,3
+7,Hanoi University of Internal Affairs,1
+7,Hanoi University,1
+7,Hanoi Capital University,3
+7,Hanoi University of Culture,4
+7,Hanoi University of Social Sciences and Humanities,3
+7,Hanoi University of Industry,1
+7,Hanoi Open University,5
+7,Vietnam Women's Academy,2
+7,University of Commerce,3
+7,National Economics University,5
+7,Thanh Do University,4
+7,Thang Long University,2
+7,FPT University,3
+7,Huu Nghi University of Technology and Management,5
+7,Dai Nam University,3
+8,Hanoi University of Technology:,0
+8,Military Technical Academy:,2
+8,"University of Technology, University of Da Nang:",5
+8,"Polytechnic University, National University of Ho Chi Minh City:",0
+8,"University of Industrial Technology, Thai Nguyen University:",3
+8,University of Transport:,0
+8,Hai Phong University:,5
+8,Hanoi University of Mining and Geology:,3
+8,Hanoi University of Agriculture:,5
+8,University of Transport Technology,1
+8,Irrigation University:,2
+8,Construction University:,2
+8,Forestry University:,5
+8,Electricity University:,3
+8,University of Economic and Technical Industry:,1
+8,Hanoi University of Industry:,0
+8,Quang Ninh Industrial University:,0
+8,Viet Hung University of Industry:,5
+8,Viet Tri University of Industry:,5
+8,Bac Giang University of Agriculture and Forestry:,0
+8,Sao Do University,3
+8,Hung Yen University of Technical Education,4
+8,Nam Dinh University of Technical Education,0
+8,Vinh University of Technical Education,2
+8,Vinh University of Industry,5
+8,Central Construction University,0
+8,Nha Trang University,0
+8,Ho Chi Minh City University of Industry,3
+8,Ho Chi Minh City University of Food Industry,5
+8,Ho Chi Minh City University of Transport,2
+8,Ho Chi Minh City University of Agriculture and Forestry,1
+8,Ho Chi Minh City University of Technical Education,4
+8,Tran Dai Nghia University,0
+8,Vietnam Maritime University,5
+8,Ngo Quyen University,2
+8,Ho Chi Minh City University of Technology and Technology,3
+8,Long An University of Economics and Industry,4
+8,Binh Duong University of Economics and Technology,1
+8,Lac Hong University,5
+8,Nguyen Tat Thanh University,1
+8,Saigon University of Technology,0
+8,Can Tho University,0
+8,Hanoi Medical University,4
+8,Ho Chi Minh City University of Medicine and Pharmacy,1
+8,Hanoi University of Pharmacy,1
+8,Military Medical Academy,2
+8,Thai Binh University of Medicine and Pharmacy,1
+8,Can Tho University of Medicine and Pharmacy,0
+8,Hue University of Medicine and Pharmacy,5
+8,Pham Ngoc Thach Medical University,2
+8,Faculty of Medicine - Ho Chi Minh City National University,2
+8,Vietnam Traditional Medicine and Pharmacy Institute,3
+8,Hai Phong University of Medicine and Pharmacy,5
+8,Vinh Medical University,4
+8,University of Medicine and Pharmacy - Thai Nguyen University,3
+8,HA NOI PHARMACEUTICAL DEPARTMENT,2
+8,University of Economic and Technical Industry,1
+8,Thanh Tay University,4
+8,Forestry University (Campus 1),5
+8,Hanoi University of Science and Technology ...,2
+8,University of Technology - The University of Da Nang,2
+8,Can Tho University,2
+8,Nha Trang University,5
+8,Nghe An University of Economics,3
+8,The University of Ba Ria - Vung Tau ...,0
+8,Vietnam National Academy of Music,2
+8,Vietnam University of Fine Arts,2
+8,Central University of Art Education,5
+8,Hue Academy of Music,2
+8,Ho Chi Minh City Conservatory of Music,4
+8,Ho Chi Minh City University of Fine Arts,3
+8,Military Culture - Art University,5
+8,Hanoi University of Theater and Cinema,2
+8,Northwestern College of Culture and Arts,3
+8,Dong Nai College of Decorative Arts,2
+8,Industrial Art University,4
+8,Asian University of Industrial Fine Arts,5
+8,Ho Chi Minh City University of Theater and Cinema,1
+8,Vietnam Dance Academy,3
+8,Viet Bac College of Culture and Arts,4
+8,An College of Culture and Arts,4
+8,Hanoi University of Education,0
+8,Education University - Hanoi National University,1
+8,HCMC University of Education,5
+8,Central University of Art Education,5
+8,University of Foreign Languages ??- Hanoi National University (QHF),2
+8,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+8,University of Education - Thai Nguyen University,0
+8,University of Education - The University of Da Nang,2
+8,University of Education - Hue University,0
+8,Hanoi University of Education 2,4
+8,University of Social Sciences and Humanities - Hanoi National University,0
+8,Journalism Academy - Propaganda,5
+8,Journalism Academy - Propaganda,5
+8,Journalism Academy - Propaganda,1
+8,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+8,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+8,University of Labor - Society (Hanoi Campus),0
+8,Labor - Social University (Hanoi Campus),0
+8,University Union,4
+8,Ton Duc Thang University,5
+8,University of Education - The University of Da Nang,3
+8,University of Labor - Society (Southern campus),1
+8,University of Labor - Society (Southern campus),4
+8,University of Labor - Society (Son Tay Campus),3
+8,Vietnamese Women's Academy,2
+8,University of Science - Hue University,5
+8,Quy Nhon University,3
+8,University of Science - Thai Nguyen University,5
+8,"Thanh Hoa University of Culture, Sports and Tourism",0
+8,Hoa Binh University,2
+8,National Economic University,2
+8,University of Economics - Hanoi National University,2
+8,University of Commerce,1
+8,Foreign Trade University,1
+8,Academy of Finance,4
+8,University of Economics - The University of Da Nang,5
+8,University of Economics - Law (UEL),1
+8,University of Economics and Finance Ho Chi Minh City (UEF),5
+8,University of Finance - Marketing (UFM),3
+8,Foreign Trade University of Ho Chi Minh City,3
+8,Banking Academy,5
+8,Banking University of Ho Chi Minh City,2
+8,Ton Duc Thang University,3
+8,Hanoi University of Internal Affairs,1
+8,Hanoi University,5
+8,Hanoi Capital University,4
+8,Hanoi University of Culture,1
+8,Hanoi University of Social Sciences and Humanities,0
+8,Hanoi University of Industry,3
+8,Hanoi Open University,2
+8,Vietnam Women's Academy,2
+8,University of Commerce,1
+8,National Economics University,4
+8,Thanh Do University,0
+8,Thang Long University,3
+8,FPT University,5
+8,Huu Nghi University of Technology and Management,4
+8,Dai Nam University,1
+9,Hanoi University of Technology:,0
+9,Military Technical Academy:,2
+9,"University of Technology, University of Da Nang:",3
+9,"Polytechnic University, National University of Ho Chi Minh City:",3
+9,"University of Industrial Technology, Thai Nguyen University:",2
+9,University of Transport:,5
+9,Hai Phong University:,4
+9,Hanoi University of Mining and Geology:,2
+9,Hanoi University of Agriculture:,3
+9,University of Transport Technology,5
+9,Irrigation University:,0
+9,Construction University:,2
+9,Forestry University:,4
+9,Electricity University:,2
+9,University of Economic and Technical Industry:,5
+9,Hanoi University of Industry:,4
+9,Quang Ninh Industrial University:,5
+9,Viet Hung University of Industry:,1
+9,Viet Tri University of Industry:,2
+9,Bac Giang University of Agriculture and Forestry:,5
+9,Sao Do University,4
+9,Hung Yen University of Technical Education,5
+9,Nam Dinh University of Technical Education,1
+9,Vinh University of Technical Education,4
+9,Vinh University of Industry,4
+9,Central Construction University,5
+9,Nha Trang University,2
+9,Ho Chi Minh City University of Industry,0
+9,Ho Chi Minh City University of Food Industry,0
+9,Ho Chi Minh City University of Transport,1
+9,Ho Chi Minh City University of Agriculture and Forestry,0
+9,Ho Chi Minh City University of Technical Education,3
+9,Tran Dai Nghia University,0
+9,Vietnam Maritime University,1
+9,Ngo Quyen University,0
+9,Ho Chi Minh City University of Technology and Technology,4
+9,Long An University of Economics and Industry,4
+9,Binh Duong University of Economics and Technology,3
+9,Lac Hong University,3
+9,Nguyen Tat Thanh University,4
+9,Saigon University of Technology,5
+9,Can Tho University,5
+9,Hanoi Medical University,2
+9,Ho Chi Minh City University of Medicine and Pharmacy,3
+9,Hanoi University of Pharmacy,1
+9,Military Medical Academy,4
+9,Thai Binh University of Medicine and Pharmacy,0
+9,Can Tho University of Medicine and Pharmacy,0
+9,Hue University of Medicine and Pharmacy,2
+9,Pham Ngoc Thach Medical University,0
+9,Faculty of Medicine - Ho Chi Minh City National University,4
+9,Vietnam Traditional Medicine and Pharmacy Institute,3
+9,Hai Phong University of Medicine and Pharmacy,2
+9,Vinh Medical University,1
+9,University of Medicine and Pharmacy - Thai Nguyen University,0
+9,HA NOI PHARMACEUTICAL DEPARTMENT,2
+9,University of Economic and Technical Industry,1
+9,Thanh Tay University,0
+9,Forestry University (Campus 1),1
+9,Hanoi University of Science and Technology ...,1
+9,University of Technology - The University of Da Nang,4
+9,Can Tho University,5
+9,Nha Trang University,4
+9,Nghe An University of Economics,4
+9,The University of Ba Ria - Vung Tau ...,5
+9,Vietnam National Academy of Music,5
+9,Vietnam University of Fine Arts,1
+9,Central University of Art Education,1
+9,Hue Academy of Music,1
+9,Ho Chi Minh City Conservatory of Music,2
+9,Ho Chi Minh City University of Fine Arts,0
+9,Military Culture - Art University,5
+9,Hanoi University of Theater and Cinema,5
+9,Northwestern College of Culture and Arts,4
+9,Dong Nai College of Decorative Arts,0
+9,Industrial Art University,5
+9,Asian University of Industrial Fine Arts,1
+9,Ho Chi Minh City University of Theater and Cinema,5
+9,Vietnam Dance Academy,1
+9,Viet Bac College of Culture and Arts,0
+9,An College of Culture and Arts,3
+9,Hanoi University of Education,5
+9,Education University - Hanoi National University,5
+9,HCMC University of Education,2
+9,Central University of Art Education,5
+9,University of Foreign Languages ??- Hanoi National University (QHF),0
+9,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+9,University of Education - Thai Nguyen University,5
+9,University of Education - The University of Da Nang,4
+9,University of Education - Hue University,2
+9,Hanoi University of Education 2,3
+9,University of Social Sciences and Humanities - Hanoi National University,5
+9,Journalism Academy - Propaganda,2
+9,Journalism Academy - Propaganda,4
+9,Journalism Academy - Propaganda,1
+9,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+9,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+9,University of Labor - Society (Hanoi Campus),4
+9,Labor - Social University (Hanoi Campus),4
+9,University Union,2
+9,Ton Duc Thang University,4
+9,University of Education - The University of Da Nang,1
+9,University of Labor - Society (Southern campus),0
+9,University of Labor - Society (Southern campus),0
+9,University of Labor - Society (Son Tay Campus),1
+9,Vietnamese Women's Academy,3
+9,University of Science - Hue University,2
+9,Quy Nhon University,3
+9,University of Science - Thai Nguyen University,5
+9,"Thanh Hoa University of Culture, Sports and Tourism",1
+9,Hoa Binh University,2
+9,National Economic University,5
+9,University of Economics - Hanoi National University,3
+9,University of Commerce,0
+9,Foreign Trade University,0
+9,Academy of Finance,1
+9,University of Economics - The University of Da Nang,3
+9,University of Economics - Law (UEL),3
+9,University of Economics and Finance Ho Chi Minh City (UEF),3
+9,University of Finance - Marketing (UFM),1
+9,Foreign Trade University of Ho Chi Minh City,5
+9,Banking Academy,1
+9,Banking University of Ho Chi Minh City,1
+9,Ton Duc Thang University,0
+9,Hanoi University of Internal Affairs,3
+9,Hanoi University,3
+9,Hanoi Capital University,1
+9,Hanoi University of Culture,0
+9,Hanoi University of Social Sciences and Humanities,0
+9,Hanoi University of Industry,3
+9,Hanoi Open University,2
+9,Vietnam Women's Academy,5
+9,University of Commerce,1
+9,National Economics University,0
+9,Thanh Do University,3
+9,Thang Long University,2
+9,FPT University,1
+9,Huu Nghi University of Technology and Management,1
+9,Dai Nam University,4
+10,Hanoi University of Technology:,4
+10,Military Technical Academy:,4
+10,"University of Technology, University of Da Nang:",4
+10,"Polytechnic University, National University of Ho Chi Minh City:",0
+10,"University of Industrial Technology, Thai Nguyen University:",1
+10,University of Transport:,5
+10,Hai Phong University:,4
+10,Hanoi University of Mining and Geology:,3
+10,Hanoi University of Agriculture:,0
+10,University of Transport Technology,2
+10,Irrigation University:,5
+10,Construction University:,0
+10,Forestry University:,4
+10,Electricity University:,4
+10,University of Economic and Technical Industry:,5
+10,Hanoi University of Industry:,1
+10,Quang Ninh Industrial University:,1
+10,Viet Hung University of Industry:,2
+10,Viet Tri University of Industry:,0
+10,Bac Giang University of Agriculture and Forestry:,3
+10,Sao Do University,0
+10,Hung Yen University of Technical Education,3
+10,Nam Dinh University of Technical Education,0
+10,Vinh University of Technical Education,2
+10,Vinh University of Industry,3
+10,Central Construction University,5
+10,Nha Trang University,3
+10,Ho Chi Minh City University of Industry,2
+10,Ho Chi Minh City University of Food Industry,3
+10,Ho Chi Minh City University of Transport,4
+10,Ho Chi Minh City University of Agriculture and Forestry,3
+10,Ho Chi Minh City University of Technical Education,4
+10,Tran Dai Nghia University,0
+10,Vietnam Maritime University,4
+10,Ngo Quyen University,3
+10,Ho Chi Minh City University of Technology and Technology,1
+10,Long An University of Economics and Industry,3
+10,Binh Duong University of Economics and Technology,1
+10,Lac Hong University,2
+10,Nguyen Tat Thanh University,4
+10,Saigon University of Technology,1
+10,Can Tho University,1
+10,Hanoi Medical University,2
+10,Ho Chi Minh City University of Medicine and Pharmacy,4
+10,Hanoi University of Pharmacy,2
+10,Military Medical Academy,4
+10,Thai Binh University of Medicine and Pharmacy,4
+10,Can Tho University of Medicine and Pharmacy,0
+10,Hue University of Medicine and Pharmacy,4
+10,Pham Ngoc Thach Medical University,1
+10,Faculty of Medicine - Ho Chi Minh City National University,3
+10,Vietnam Traditional Medicine and Pharmacy Institute,0
+10,Hai Phong University of Medicine and Pharmacy,4
+10,Vinh Medical University,1
+10,University of Medicine and Pharmacy - Thai Nguyen University,5
+10,HA NOI PHARMACEUTICAL DEPARTMENT,3
+10,University of Economic and Technical Industry,1
+10,Thanh Tay University,3
+10,Forestry University (Campus 1),2
+10,Hanoi University of Science and Technology ...,4
+10,University of Technology - The University of Da Nang,4
+10,Can Tho University,3
+10,Nha Trang University,2
+10,Nghe An University of Economics,1
+10,The University of Ba Ria - Vung Tau ...,0
+10,Vietnam National Academy of Music,2
+10,Vietnam University of Fine Arts,5
+10,Central University of Art Education,1
+10,Hue Academy of Music,4
+10,Ho Chi Minh City Conservatory of Music,0
+10,Ho Chi Minh City University of Fine Arts,4
+10,Military Culture - Art University,0
+10,Hanoi University of Theater and Cinema,2
+10,Northwestern College of Culture and Arts,0
+10,Dong Nai College of Decorative Arts,5
+10,Industrial Art University,3
+10,Asian University of Industrial Fine Arts,2
+10,Ho Chi Minh City University of Theater and Cinema,5
+10,Vietnam Dance Academy,3
+10,Viet Bac College of Culture and Arts,1
+10,An College of Culture and Arts,5
+10,Hanoi University of Education,0
+10,Education University - Hanoi National University,3
+10,HCMC University of Education,4
+10,Central University of Art Education,2
+10,University of Foreign Languages ??- Hanoi National University (QHF),0
+10,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+10,University of Education - Thai Nguyen University,3
+10,University of Education - The University of Da Nang,4
+10,University of Education - Hue University,2
+10,Hanoi University of Education 2,5
+10,University of Social Sciences and Humanities - Hanoi National University,2
+10,Journalism Academy - Propaganda,5
+10,Journalism Academy - Propaganda,1
+10,Journalism Academy - Propaganda,1
+10,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+10,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+10,University of Labor - Society (Hanoi Campus),1
+10,Labor - Social University (Hanoi Campus),2
+10,University Union,2
+10,Ton Duc Thang University,1
+10,University of Education - The University of Da Nang,3
+10,University of Labor - Society (Southern campus),3
+10,University of Labor - Society (Southern campus),3
+10,University of Labor - Society (Son Tay Campus),3
+10,Vietnamese Women's Academy,0
+10,University of Science - Hue University,2
+10,Quy Nhon University,4
+10,University of Science - Thai Nguyen University,2
+10,"Thanh Hoa University of Culture, Sports and Tourism",1
+10,Hoa Binh University,2
+10,National Economic University,3
+10,University of Economics - Hanoi National University,3
+10,University of Commerce,4
+10,Foreign Trade University,5
+10,Academy of Finance,0
+10,University of Economics - The University of Da Nang,3
+10,University of Economics - Law (UEL),0
+10,University of Economics and Finance Ho Chi Minh City (UEF),0
+10,University of Finance - Marketing (UFM),4
+10,Foreign Trade University of Ho Chi Minh City,0
+10,Banking Academy,3
+10,Banking University of Ho Chi Minh City,2
+10,Ton Duc Thang University,2
+10,Hanoi University of Internal Affairs,5
+10,Hanoi University,1
+10,Hanoi Capital University,5
+10,Hanoi University of Culture,2
+10,Hanoi University of Social Sciences and Humanities,3
+10,Hanoi University of Industry,1
+10,Hanoi Open University,2
+10,Vietnam Women's Academy,3
+10,University of Commerce,4
+10,National Economics University,1
+10,Thanh Do University,3
+10,Thang Long University,5
+10,FPT University,2
+10,Huu Nghi University of Technology and Management,3
+10,Dai Nam University,1
+11,Hanoi University of Technology:,5
+11,Military Technical Academy:,5
+11,"University of Technology, University of Da Nang:",5
+11,"Polytechnic University, National University of Ho Chi Minh City:",2
+11,"University of Industrial Technology, Thai Nguyen University:",5
+11,University of Transport:,3
+11,Hai Phong University:,4
+11,Hanoi University of Mining and Geology:,5
+11,Hanoi University of Agriculture:,1
+11,University of Transport Technology,1
+11,Irrigation University:,4
+11,Construction University:,3
+11,Forestry University:,5
+11,Electricity University:,4
+11,University of Economic and Technical Industry:,1
+11,Hanoi University of Industry:,2
+11,Quang Ninh Industrial University:,5
+11,Viet Hung University of Industry:,0
+11,Viet Tri University of Industry:,4
+11,Bac Giang University of Agriculture and Forestry:,3
+11,Sao Do University,1
+11,Hung Yen University of Technical Education,2
+11,Nam Dinh University of Technical Education,3
+11,Vinh University of Technical Education,5
+11,Vinh University of Industry,1
+11,Central Construction University,2
+11,Nha Trang University,3
+11,Ho Chi Minh City University of Industry,2
+11,Ho Chi Minh City University of Food Industry,2
+11,Ho Chi Minh City University of Transport,2
+11,Ho Chi Minh City University of Agriculture and Forestry,3
+11,Ho Chi Minh City University of Technical Education,0
+11,Tran Dai Nghia University,3
+11,Vietnam Maritime University,1
+11,Ngo Quyen University,3
+11,Ho Chi Minh City University of Technology and Technology,3
+11,Long An University of Economics and Industry,3
+11,Binh Duong University of Economics and Technology,1
+11,Lac Hong University,4
+11,Nguyen Tat Thanh University,3
+11,Saigon University of Technology,4
+11,Can Tho University,5
+11,Hanoi Medical University,4
+11,Ho Chi Minh City University of Medicine and Pharmacy,2
+11,Hanoi University of Pharmacy,3
+11,Military Medical Academy,1
+11,Thai Binh University of Medicine and Pharmacy,2
+11,Can Tho University of Medicine and Pharmacy,5
+11,Hue University of Medicine and Pharmacy,1
+11,Pham Ngoc Thach Medical University,4
+11,Faculty of Medicine - Ho Chi Minh City National University,0
+11,Vietnam Traditional Medicine and Pharmacy Institute,4
+11,Hai Phong University of Medicine and Pharmacy,3
+11,Vinh Medical University,0
+11,University of Medicine and Pharmacy - Thai Nguyen University,4
+11,HA NOI PHARMACEUTICAL DEPARTMENT,0
+11,University of Economic and Technical Industry,0
+11,Thanh Tay University,1
+11,Forestry University (Campus 1),5
+11,Hanoi University of Science and Technology ...,0
+11,University of Technology - The University of Da Nang,1
+11,Can Tho University,3
+11,Nha Trang University,5
+11,Nghe An University of Economics,2
+11,The University of Ba Ria - Vung Tau ...,5
+11,Vietnam National Academy of Music,0
+11,Vietnam University of Fine Arts,4
+11,Central University of Art Education,3
+11,Hue Academy of Music,1
+11,Ho Chi Minh City Conservatory of Music,5
+11,Ho Chi Minh City University of Fine Arts,4
+11,Military Culture - Art University,1
+11,Hanoi University of Theater and Cinema,5
+11,Northwestern College of Culture and Arts,5
+11,Dong Nai College of Decorative Arts,4
+11,Industrial Art University,0
+11,Asian University of Industrial Fine Arts,4
+11,Ho Chi Minh City University of Theater and Cinema,0
+11,Vietnam Dance Academy,5
+11,Viet Bac College of Culture and Arts,2
+11,An College of Culture and Arts,4
+11,Hanoi University of Education,1
+11,Education University - Hanoi National University,1
+11,HCMC University of Education,1
+11,Central University of Art Education,2
+11,University of Foreign Languages ??- Hanoi National University (QHF),4
+11,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+11,University of Education - Thai Nguyen University,4
+11,University of Education - The University of Da Nang,1
+11,University of Education - Hue University,1
+11,Hanoi University of Education 2,1
+11,University of Social Sciences and Humanities - Hanoi National University,0
+11,Journalism Academy - Propaganda,5
+11,Journalism Academy - Propaganda,1
+11,Journalism Academy - Propaganda,4
+11,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+11,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+11,University of Labor - Society (Hanoi Campus),0
+11,Labor - Social University (Hanoi Campus),2
+11,University Union,3
+11,Ton Duc Thang University,0
+11,University of Education - The University of Da Nang,0
+11,University of Labor - Society (Southern campus),4
+11,University of Labor - Society (Southern campus),4
+11,University of Labor - Society (Son Tay Campus),2
+11,Vietnamese Women's Academy,2
+11,University of Science - Hue University,0
+11,Quy Nhon University,0
+11,University of Science - Thai Nguyen University,0
+11,"Thanh Hoa University of Culture, Sports and Tourism",2
+11,Hoa Binh University,1
+11,National Economic University,4
+11,University of Economics - Hanoi National University,3
+11,University of Commerce,5
+11,Foreign Trade University,3
+11,Academy of Finance,3
+11,University of Economics - The University of Da Nang,5
+11,University of Economics - Law (UEL),1
+11,University of Economics and Finance Ho Chi Minh City (UEF),1
+11,University of Finance - Marketing (UFM),5
+11,Foreign Trade University of Ho Chi Minh City,1
+11,Banking Academy,3
+11,Banking University of Ho Chi Minh City,3
+11,Ton Duc Thang University,1
+11,Hanoi University of Internal Affairs,5
+11,Hanoi University,4
+11,Hanoi Capital University,2
+11,Hanoi University of Culture,2
+11,Hanoi University of Social Sciences and Humanities,1
+11,Hanoi University of Industry,0
+11,Hanoi Open University,2
+11,Vietnam Women's Academy,3
+11,University of Commerce,2
+11,National Economics University,3
+11,Thanh Do University,5
+11,Thang Long University,2
+11,FPT University,1
+11,Huu Nghi University of Technology and Management,0
+11,Dai Nam University,3
+12,Hanoi University of Technology:,4
+12,Military Technical Academy:,0
+12,"University of Technology, University of Da Nang:",4
+12,"Polytechnic University, National University of Ho Chi Minh City:",2
+12,"University of Industrial Technology, Thai Nguyen University:",5
+12,University of Transport:,5
+12,Hai Phong University:,2
+12,Hanoi University of Mining and Geology:,4
+12,Hanoi University of Agriculture:,2
+12,University of Transport Technology,1
+12,Irrigation University:,1
+12,Construction University:,0
+12,Forestry University:,3
+12,Electricity University:,2
+12,University of Economic and Technical Industry:,1
+12,Hanoi University of Industry:,1
+12,Quang Ninh Industrial University:,1
+12,Viet Hung University of Industry:,1
+12,Viet Tri University of Industry:,4
+12,Bac Giang University of Agriculture and Forestry:,1
+12,Sao Do University,4
+12,Hung Yen University of Technical Education,0
+12,Nam Dinh University of Technical Education,3
+12,Vinh University of Technical Education,2
+12,Vinh University of Industry,0
+12,Central Construction University,5
+12,Nha Trang University,2
+12,Ho Chi Minh City University of Industry,1
+12,Ho Chi Minh City University of Food Industry,1
+12,Ho Chi Minh City University of Transport,0
+12,Ho Chi Minh City University of Agriculture and Forestry,0
+12,Ho Chi Minh City University of Technical Education,3
+12,Tran Dai Nghia University,0
+12,Vietnam Maritime University,4
+12,Ngo Quyen University,4
+12,Ho Chi Minh City University of Technology and Technology,0
+12,Long An University of Economics and Industry,3
+12,Binh Duong University of Economics and Technology,0
+12,Lac Hong University,4
+12,Nguyen Tat Thanh University,1
+12,Saigon University of Technology,0
+12,Can Tho University,5
+12,Hanoi Medical University,0
+12,Ho Chi Minh City University of Medicine and Pharmacy,5
+12,Hanoi University of Pharmacy,3
+12,Military Medical Academy,4
+12,Thai Binh University of Medicine and Pharmacy,2
+12,Can Tho University of Medicine and Pharmacy,1
+12,Hue University of Medicine and Pharmacy,0
+12,Pham Ngoc Thach Medical University,3
+12,Faculty of Medicine - Ho Chi Minh City National University,2
+12,Vietnam Traditional Medicine and Pharmacy Institute,4
+12,Hai Phong University of Medicine and Pharmacy,0
+12,Vinh Medical University,5
+12,University of Medicine and Pharmacy - Thai Nguyen University,1
+12,HA NOI PHARMACEUTICAL DEPARTMENT,2
+12,University of Economic and Technical Industry,1
+12,Thanh Tay University,0
+12,Forestry University (Campus 1),5
+12,Hanoi University of Science and Technology ...,4
+12,University of Technology - The University of Da Nang,0
+12,Can Tho University,3
+12,Nha Trang University,0
+12,Nghe An University of Economics,0
+12,The University of Ba Ria - Vung Tau ...,3
+12,Vietnam National Academy of Music,2
+12,Vietnam University of Fine Arts,2
+12,Central University of Art Education,1
+12,Hue Academy of Music,0
+12,Ho Chi Minh City Conservatory of Music,0
+12,Ho Chi Minh City University of Fine Arts,1
+12,Military Culture - Art University,3
+12,Hanoi University of Theater and Cinema,0
+12,Northwestern College of Culture and Arts,5
+12,Dong Nai College of Decorative Arts,5
+12,Industrial Art University,0
+12,Asian University of Industrial Fine Arts,2
+12,Ho Chi Minh City University of Theater and Cinema,0
+12,Vietnam Dance Academy,4
+12,Viet Bac College of Culture and Arts,4
+12,An College of Culture and Arts,3
+12,Hanoi University of Education,1
+12,Education University - Hanoi National University,5
+12,HCMC University of Education,1
+12,Central University of Art Education,2
+12,University of Foreign Languages ??- Hanoi National University (QHF),3
+12,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+12,University of Education - Thai Nguyen University,3
+12,University of Education - The University of Da Nang,0
+12,University of Education - Hue University,1
+12,Hanoi University of Education 2,3
+12,University of Social Sciences and Humanities - Hanoi National University,0
+12,Journalism Academy - Propaganda,3
+12,Journalism Academy - Propaganda,1
+12,Journalism Academy - Propaganda,4
+12,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+12,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+12,University of Labor - Society (Hanoi Campus),1
+12,Labor - Social University (Hanoi Campus),3
+12,University Union,3
+12,Ton Duc Thang University,4
+12,University of Education - The University of Da Nang,2
+12,University of Labor - Society (Southern campus),5
+12,University of Labor - Society (Southern campus),5
+12,University of Labor - Society (Son Tay Campus),5
+12,Vietnamese Women's Academy,5
+12,University of Science - Hue University,2
+12,Quy Nhon University,2
+12,University of Science - Thai Nguyen University,1
+12,"Thanh Hoa University of Culture, Sports and Tourism",2
+12,Hoa Binh University,0
+12,National Economic University,5
+12,University of Economics - Hanoi National University,2
+12,University of Commerce,4
+12,Foreign Trade University,0
+12,Academy of Finance,2
+12,University of Economics - The University of Da Nang,2
+12,University of Economics - Law (UEL),2
+12,University of Economics and Finance Ho Chi Minh City (UEF),2
+12,University of Finance - Marketing (UFM),3
+12,Foreign Trade University of Ho Chi Minh City,1
+12,Banking Academy,1
+12,Banking University of Ho Chi Minh City,2
+12,Ton Duc Thang University,1
+12,Hanoi University of Internal Affairs,0
+12,Hanoi University,4
+12,Hanoi Capital University,3
+12,Hanoi University of Culture,0
+12,Hanoi University of Social Sciences and Humanities,0
+12,Hanoi University of Industry,3
+12,Hanoi Open University,0
+12,Vietnam Women's Academy,0
+12,University of Commerce,0
+12,National Economics University,1
+12,Thanh Do University,5
+12,Thang Long University,0
+12,FPT University,5
+12,Huu Nghi University of Technology and Management,5
+12,Dai Nam University,3
+13,Hanoi University of Technology:,3
+13,Military Technical Academy:,0
+13,"University of Technology, University of Da Nang:",5
+13,"Polytechnic University, National University of Ho Chi Minh City:",0
+13,"University of Industrial Technology, Thai Nguyen University:",3
+13,University of Transport:,1
+13,Hai Phong University:,0
+13,Hanoi University of Mining and Geology:,4
+13,Hanoi University of Agriculture:,0
+13,University of Transport Technology,1
+13,Irrigation University:,3
+13,Construction University:,1
+13,Forestry University:,5
+13,Electricity University:,2
+13,University of Economic and Technical Industry:,3
+13,Hanoi University of Industry:,3
+13,Quang Ninh Industrial University:,0
+13,Viet Hung University of Industry:,1
+13,Viet Tri University of Industry:,1
+13,Bac Giang University of Agriculture and Forestry:,4
+13,Sao Do University,4
+13,Hung Yen University of Technical Education,5
+13,Nam Dinh University of Technical Education,4
+13,Vinh University of Technical Education,3
+13,Vinh University of Industry,5
+13,Central Construction University,2
+13,Nha Trang University,4
+13,Ho Chi Minh City University of Industry,3
+13,Ho Chi Minh City University of Food Industry,5
+13,Ho Chi Minh City University of Transport,5
+13,Ho Chi Minh City University of Agriculture and Forestry,0
+13,Ho Chi Minh City University of Technical Education,2
+13,Tran Dai Nghia University,1
+13,Vietnam Maritime University,3
+13,Ngo Quyen University,3
+13,Ho Chi Minh City University of Technology and Technology,0
+13,Long An University of Economics and Industry,4
+13,Binh Duong University of Economics and Technology,1
+13,Lac Hong University,4
+13,Nguyen Tat Thanh University,2
+13,Saigon University of Technology,2
+13,Can Tho University,3
+13,Hanoi Medical University,3
+13,Ho Chi Minh City University of Medicine and Pharmacy,5
+13,Hanoi University of Pharmacy,5
+13,Military Medical Academy,4
+13,Thai Binh University of Medicine and Pharmacy,1
+13,Can Tho University of Medicine and Pharmacy,0
+13,Hue University of Medicine and Pharmacy,2
+13,Pham Ngoc Thach Medical University,2
+13,Faculty of Medicine - Ho Chi Minh City National University,2
+13,Vietnam Traditional Medicine and Pharmacy Institute,2
+13,Hai Phong University of Medicine and Pharmacy,0
+13,Vinh Medical University,2
+13,University of Medicine and Pharmacy - Thai Nguyen University,0
+13,HA NOI PHARMACEUTICAL DEPARTMENT,1
+13,University of Economic and Technical Industry,0
+13,Thanh Tay University,0
+13,Forestry University (Campus 1),2
+13,Hanoi University of Science and Technology ...,1
+13,University of Technology - The University of Da Nang,4
+13,Can Tho University,5
+13,Nha Trang University,5
+13,Nghe An University of Economics,0
+13,The University of Ba Ria - Vung Tau ...,3
+13,Vietnam National Academy of Music,5
+13,Vietnam University of Fine Arts,0
+13,Central University of Art Education,4
+13,Hue Academy of Music,4
+13,Ho Chi Minh City Conservatory of Music,3
+13,Ho Chi Minh City University of Fine Arts,3
+13,Military Culture - Art University,5
+13,Hanoi University of Theater and Cinema,4
+13,Northwestern College of Culture and Arts,0
+13,Dong Nai College of Decorative Arts,1
+13,Industrial Art University,2
+13,Asian University of Industrial Fine Arts,1
+13,Ho Chi Minh City University of Theater and Cinema,2
+13,Vietnam Dance Academy,0
+13,Viet Bac College of Culture and Arts,5
+13,An College of Culture and Arts,0
+13,Hanoi University of Education,5
+13,Education University - Hanoi National University,4
+13,HCMC University of Education,3
+13,Central University of Art Education,0
+13,University of Foreign Languages ??- Hanoi National University (QHF),5
+13,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+13,University of Education - Thai Nguyen University,3
+13,University of Education - The University of Da Nang,5
+13,University of Education - Hue University,2
+13,Hanoi University of Education 2,3
+13,University of Social Sciences and Humanities - Hanoi National University,2
+13,Journalism Academy - Propaganda,0
+13,Journalism Academy - Propaganda,1
+13,Journalism Academy - Propaganda,0
+13,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+13,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+13,University of Labor - Society (Hanoi Campus),3
+13,Labor - Social University (Hanoi Campus),0
+13,University Union,1
+13,Ton Duc Thang University,4
+13,University of Education - The University of Da Nang,0
+13,University of Labor - Society (Southern campus),5
+13,University of Labor - Society (Southern campus),5
+13,University of Labor - Society (Son Tay Campus),2
+13,Vietnamese Women's Academy,0
+13,University of Science - Hue University,1
+13,Quy Nhon University,2
+13,University of Science - Thai Nguyen University,3
+13,"Thanh Hoa University of Culture, Sports and Tourism",4
+13,Hoa Binh University,5
+13,National Economic University,5
+13,University of Economics - Hanoi National University,0
+13,University of Commerce,2
+13,Foreign Trade University,4
+13,Academy of Finance,1
+13,University of Economics - The University of Da Nang,4
+13,University of Economics - Law (UEL),4
+13,University of Economics and Finance Ho Chi Minh City (UEF),2
+13,University of Finance - Marketing (UFM),2
+13,Foreign Trade University of Ho Chi Minh City,5
+13,Banking Academy,5
+13,Banking University of Ho Chi Minh City,0
+13,Ton Duc Thang University,5
+13,Hanoi University of Internal Affairs,5
+13,Hanoi University,3
+13,Hanoi Capital University,2
+13,Hanoi University of Culture,2
+13,Hanoi University of Social Sciences and Humanities,3
+13,Hanoi University of Industry,5
+13,Hanoi Open University,2
+13,Vietnam Women's Academy,0
+13,University of Commerce,5
+13,National Economics University,2
+13,Thanh Do University,1
+13,Thang Long University,1
+13,FPT University,4
+13,Huu Nghi University of Technology and Management,3
+13,Dai Nam University,4
+14,Hanoi University of Technology:,5
+14,Military Technical Academy:,0
+14,"University of Technology, University of Da Nang:",3
+14,"Polytechnic University, National University of Ho Chi Minh City:",1
+14,"University of Industrial Technology, Thai Nguyen University:",3
+14,University of Transport:,4
+14,Hai Phong University:,3
+14,Hanoi University of Mining and Geology:,5
+14,Hanoi University of Agriculture:,0
+14,University of Transport Technology,5
+14,Irrigation University:,5
+14,Construction University:,0
+14,Forestry University:,4
+14,Electricity University:,5
+14,University of Economic and Technical Industry:,5
+14,Hanoi University of Industry:,2
+14,Quang Ninh Industrial University:,4
+14,Viet Hung University of Industry:,0
+14,Viet Tri University of Industry:,3
+14,Bac Giang University of Agriculture and Forestry:,2
+14,Sao Do University,4
+14,Hung Yen University of Technical Education,5
+14,Nam Dinh University of Technical Education,4
+14,Vinh University of Technical Education,2
+14,Vinh University of Industry,2
+14,Central Construction University,3
+14,Nha Trang University,1
+14,Ho Chi Minh City University of Industry,0
+14,Ho Chi Minh City University of Food Industry,5
+14,Ho Chi Minh City University of Transport,4
+14,Ho Chi Minh City University of Agriculture and Forestry,3
+14,Ho Chi Minh City University of Technical Education,2
+14,Tran Dai Nghia University,5
+14,Vietnam Maritime University,3
+14,Ngo Quyen University,4
+14,Ho Chi Minh City University of Technology and Technology,3
+14,Long An University of Economics and Industry,4
+14,Binh Duong University of Economics and Technology,1
+14,Lac Hong University,1
+14,Nguyen Tat Thanh University,2
+14,Saigon University of Technology,5
+14,Can Tho University,5
+14,Hanoi Medical University,0
+14,Ho Chi Minh City University of Medicine and Pharmacy,4
+14,Hanoi University of Pharmacy,3
+14,Military Medical Academy,0
+14,Thai Binh University of Medicine and Pharmacy,3
+14,Can Tho University of Medicine and Pharmacy,2
+14,Hue University of Medicine and Pharmacy,0
+14,Pham Ngoc Thach Medical University,2
+14,Faculty of Medicine - Ho Chi Minh City National University,0
+14,Vietnam Traditional Medicine and Pharmacy Institute,5
+14,Hai Phong University of Medicine and Pharmacy,4
+14,Vinh Medical University,5
+14,University of Medicine and Pharmacy - Thai Nguyen University,1
+14,HA NOI PHARMACEUTICAL DEPARTMENT,3
+14,University of Economic and Technical Industry,5
+14,Thanh Tay University,5
+14,Forestry University (Campus 1),4
+14,Hanoi University of Science and Technology ...,5
+14,University of Technology - The University of Da Nang,1
+14,Can Tho University,4
+14,Nha Trang University,3
+14,Nghe An University of Economics,3
+14,The University of Ba Ria - Vung Tau ...,4
+14,Vietnam National Academy of Music,2
+14,Vietnam University of Fine Arts,3
+14,Central University of Art Education,1
+14,Hue Academy of Music,4
+14,Ho Chi Minh City Conservatory of Music,4
+14,Ho Chi Minh City University of Fine Arts,4
+14,Military Culture - Art University,4
+14,Hanoi University of Theater and Cinema,4
+14,Northwestern College of Culture and Arts,2
+14,Dong Nai College of Decorative Arts,2
+14,Industrial Art University,0
+14,Asian University of Industrial Fine Arts,4
+14,Ho Chi Minh City University of Theater and Cinema,5
+14,Vietnam Dance Academy,0
+14,Viet Bac College of Culture and Arts,3
+14,An College of Culture and Arts,5
+14,Hanoi University of Education,3
+14,Education University - Hanoi National University,4
+14,HCMC University of Education,4
+14,Central University of Art Education,2
+14,University of Foreign Languages ??- Hanoi National University (QHF),2
+14,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+14,University of Education - Thai Nguyen University,5
+14,University of Education - The University of Da Nang,2
+14,University of Education - Hue University,1
+14,Hanoi University of Education 2,2
+14,University of Social Sciences and Humanities - Hanoi National University,1
+14,Journalism Academy - Propaganda,5
+14,Journalism Academy - Propaganda,2
+14,Journalism Academy - Propaganda,5
+14,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+14,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+14,University of Labor - Society (Hanoi Campus),0
+14,Labor - Social University (Hanoi Campus),1
+14,University Union,3
+14,Ton Duc Thang University,5
+14,University of Education - The University of Da Nang,4
+14,University of Labor - Society (Southern campus),0
+14,University of Labor - Society (Southern campus),4
+14,University of Labor - Society (Son Tay Campus),3
+14,Vietnamese Women's Academy,5
+14,University of Science - Hue University,0
+14,Quy Nhon University,0
+14,University of Science - Thai Nguyen University,1
+14,"Thanh Hoa University of Culture, Sports and Tourism",0
+14,Hoa Binh University,4
+14,National Economic University,4
+14,University of Economics - Hanoi National University,2
+14,University of Commerce,5
+14,Foreign Trade University,1
+14,Academy of Finance,4
+14,University of Economics - The University of Da Nang,3
+14,University of Economics - Law (UEL),5
+14,University of Economics and Finance Ho Chi Minh City (UEF),3
+14,University of Finance - Marketing (UFM),0
+14,Foreign Trade University of Ho Chi Minh City,2
+14,Banking Academy,0
+14,Banking University of Ho Chi Minh City,0
+14,Ton Duc Thang University,4
+14,Hanoi University of Internal Affairs,3
+14,Hanoi University,4
+14,Hanoi Capital University,4
+14,Hanoi University of Culture,5
+14,Hanoi University of Social Sciences and Humanities,2
+14,Hanoi University of Industry,2
+14,Hanoi Open University,4
+14,Vietnam Women's Academy,4
+14,University of Commerce,5
+14,National Economics University,0
+14,Thanh Do University,1
+14,Thang Long University,3
+14,FPT University,1
+14,Huu Nghi University of Technology and Management,3
+14,Dai Nam University,1
+15,Hanoi University of Technology:,0
+15,Military Technical Academy:,5
+15,"University of Technology, University of Da Nang:",3
+15,"Polytechnic University, National University of Ho Chi Minh City:",2
+15,"University of Industrial Technology, Thai Nguyen University:",2
+15,University of Transport:,5
+15,Hai Phong University:,2
+15,Hanoi University of Mining and Geology:,5
+15,Hanoi University of Agriculture:,3
+15,University of Transport Technology,5
+15,Irrigation University:,1
+15,Construction University:,4
+15,Forestry University:,2
+15,Electricity University:,0
+15,University of Economic and Technical Industry:,3
+15,Hanoi University of Industry:,3
+15,Quang Ninh Industrial University:,4
+15,Viet Hung University of Industry:,1
+15,Viet Tri University of Industry:,1
+15,Bac Giang University of Agriculture and Forestry:,1
+15,Sao Do University,2
+15,Hung Yen University of Technical Education,2
+15,Nam Dinh University of Technical Education,4
+15,Vinh University of Technical Education,3
+15,Vinh University of Industry,5
+15,Central Construction University,2
+15,Nha Trang University,5
+15,Ho Chi Minh City University of Industry,2
+15,Ho Chi Minh City University of Food Industry,4
+15,Ho Chi Minh City University of Transport,5
+15,Ho Chi Minh City University of Agriculture and Forestry,2
+15,Ho Chi Minh City University of Technical Education,2
+15,Tran Dai Nghia University,2
+15,Vietnam Maritime University,3
+15,Ngo Quyen University,0
+15,Ho Chi Minh City University of Technology and Technology,1
+15,Long An University of Economics and Industry,0
+15,Binh Duong University of Economics and Technology,1
+15,Lac Hong University,5
+15,Nguyen Tat Thanh University,2
+15,Saigon University of Technology,3
+15,Can Tho University,3
+15,Hanoi Medical University,2
+15,Ho Chi Minh City University of Medicine and Pharmacy,3
+15,Hanoi University of Pharmacy,0
+15,Military Medical Academy,4
+15,Thai Binh University of Medicine and Pharmacy,2
+15,Can Tho University of Medicine and Pharmacy,0
+15,Hue University of Medicine and Pharmacy,2
+15,Pham Ngoc Thach Medical University,2
+15,Faculty of Medicine - Ho Chi Minh City National University,3
+15,Vietnam Traditional Medicine and Pharmacy Institute,1
+15,Hai Phong University of Medicine and Pharmacy,4
+15,Vinh Medical University,4
+15,University of Medicine and Pharmacy - Thai Nguyen University,2
+15,HA NOI PHARMACEUTICAL DEPARTMENT,1
+15,University of Economic and Technical Industry,3
+15,Thanh Tay University,3
+15,Forestry University (Campus 1),5
+15,Hanoi University of Science and Technology ...,3
+15,University of Technology - The University of Da Nang,4
+15,Can Tho University,4
+15,Nha Trang University,3
+15,Nghe An University of Economics,4
+15,The University of Ba Ria - Vung Tau ...,1
+15,Vietnam National Academy of Music,0
+15,Vietnam University of Fine Arts,2
+15,Central University of Art Education,1
+15,Hue Academy of Music,0
+15,Ho Chi Minh City Conservatory of Music,1
+15,Ho Chi Minh City University of Fine Arts,4
+15,Military Culture - Art University,3
+15,Hanoi University of Theater and Cinema,2
+15,Northwestern College of Culture and Arts,3
+15,Dong Nai College of Decorative Arts,0
+15,Industrial Art University,4
+15,Asian University of Industrial Fine Arts,3
+15,Ho Chi Minh City University of Theater and Cinema,1
+15,Vietnam Dance Academy,5
+15,Viet Bac College of Culture and Arts,3
+15,An College of Culture and Arts,1
+15,Hanoi University of Education,4
+15,Education University - Hanoi National University,2
+15,HCMC University of Education,4
+15,Central University of Art Education,0
+15,University of Foreign Languages ??- Hanoi National University (QHF),0
+15,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+15,University of Education - Thai Nguyen University,1
+15,University of Education - The University of Da Nang,0
+15,University of Education - Hue University,1
+15,Hanoi University of Education 2,2
+15,University of Social Sciences and Humanities - Hanoi National University,4
+15,Journalism Academy - Propaganda,3
+15,Journalism Academy - Propaganda,0
+15,Journalism Academy - Propaganda,0
+15,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+15,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+15,University of Labor - Society (Hanoi Campus),2
+15,Labor - Social University (Hanoi Campus),1
+15,University Union,4
+15,Ton Duc Thang University,4
+15,University of Education - The University of Da Nang,0
+15,University of Labor - Society (Southern campus),1
+15,University of Labor - Society (Southern campus),3
+15,University of Labor - Society (Son Tay Campus),1
+15,Vietnamese Women's Academy,4
+15,University of Science - Hue University,4
+15,Quy Nhon University,3
+15,University of Science - Thai Nguyen University,2
+15,"Thanh Hoa University of Culture, Sports and Tourism",1
+15,Hoa Binh University,3
+15,National Economic University,2
+15,University of Economics - Hanoi National University,5
+15,University of Commerce,2
+15,Foreign Trade University,0
+15,Academy of Finance,3
+15,University of Economics - The University of Da Nang,4
+15,University of Economics - Law (UEL),2
+15,University of Economics and Finance Ho Chi Minh City (UEF),4
+15,University of Finance - Marketing (UFM),2
+15,Foreign Trade University of Ho Chi Minh City,3
+15,Banking Academy,2
+15,Banking University of Ho Chi Minh City,1
+15,Ton Duc Thang University,4
+15,Hanoi University of Internal Affairs,3
+15,Hanoi University,4
+15,Hanoi Capital University,3
+15,Hanoi University of Culture,5
+15,Hanoi University of Social Sciences and Humanities,0
+15,Hanoi University of Industry,2
+15,Hanoi Open University,0
+15,Vietnam Women's Academy,3
+15,University of Commerce,3
+15,National Economics University,2
+15,Thanh Do University,2
+15,Thang Long University,2
+15,FPT University,2
+15,Huu Nghi University of Technology and Management,1
+15,Dai Nam University,1
+16,Hanoi University of Technology:,4
+16,Military Technical Academy:,0
+16,"University of Technology, University of Da Nang:",4
+16,"Polytechnic University, National University of Ho Chi Minh City:",2
+16,"University of Industrial Technology, Thai Nguyen University:",0
+16,University of Transport:,4
+16,Hai Phong University:,1
+16,Hanoi University of Mining and Geology:,2
+16,Hanoi University of Agriculture:,4
+16,University of Transport Technology,4
+16,Irrigation University:,4
+16,Construction University:,4
+16,Forestry University:,1
+16,Electricity University:,0
+16,University of Economic and Technical Industry:,4
+16,Hanoi University of Industry:,1
+16,Quang Ninh Industrial University:,0
+16,Viet Hung University of Industry:,0
+16,Viet Tri University of Industry:,1
+16,Bac Giang University of Agriculture and Forestry:,4
+16,Sao Do University,1
+16,Hung Yen University of Technical Education,3
+16,Nam Dinh University of Technical Education,4
+16,Vinh University of Technical Education,2
+16,Vinh University of Industry,2
+16,Central Construction University,3
+16,Nha Trang University,3
+16,Ho Chi Minh City University of Industry,2
+16,Ho Chi Minh City University of Food Industry,2
+16,Ho Chi Minh City University of Transport,3
+16,Ho Chi Minh City University of Agriculture and Forestry,1
+16,Ho Chi Minh City University of Technical Education,0
+16,Tran Dai Nghia University,1
+16,Vietnam Maritime University,1
+16,Ngo Quyen University,0
+16,Ho Chi Minh City University of Technology and Technology,0
+16,Long An University of Economics and Industry,1
+16,Binh Duong University of Economics and Technology,4
+16,Lac Hong University,3
+16,Nguyen Tat Thanh University,1
+16,Saigon University of Technology,2
+16,Can Tho University,2
+16,Hanoi Medical University,1
+16,Ho Chi Minh City University of Medicine and Pharmacy,4
+16,Hanoi University of Pharmacy,1
+16,Military Medical Academy,4
+16,Thai Binh University of Medicine and Pharmacy,4
+16,Can Tho University of Medicine and Pharmacy,3
+16,Hue University of Medicine and Pharmacy,1
+16,Pham Ngoc Thach Medical University,2
+16,Faculty of Medicine - Ho Chi Minh City National University,0
+16,Vietnam Traditional Medicine and Pharmacy Institute,4
+16,Hai Phong University of Medicine and Pharmacy,0
+16,Vinh Medical University,2
+16,University of Medicine and Pharmacy - Thai Nguyen University,1
+16,HA NOI PHARMACEUTICAL DEPARTMENT,3
+16,University of Economic and Technical Industry,2
+16,Thanh Tay University,0
+16,Forestry University (Campus 1),5
+16,Hanoi University of Science and Technology ...,0
+16,University of Technology - The University of Da Nang,2
+16,Can Tho University,4
+16,Nha Trang University,1
+16,Nghe An University of Economics,0
+16,The University of Ba Ria - Vung Tau ...,5
+16,Vietnam National Academy of Music,2
+16,Vietnam University of Fine Arts,1
+16,Central University of Art Education,4
+16,Hue Academy of Music,0
+16,Ho Chi Minh City Conservatory of Music,4
+16,Ho Chi Minh City University of Fine Arts,4
+16,Military Culture - Art University,3
+16,Hanoi University of Theater and Cinema,2
+16,Northwestern College of Culture and Arts,3
+16,Dong Nai College of Decorative Arts,0
+16,Industrial Art University,3
+16,Asian University of Industrial Fine Arts,3
+16,Ho Chi Minh City University of Theater and Cinema,3
+16,Vietnam Dance Academy,2
+16,Viet Bac College of Culture and Arts,1
+16,An College of Culture and Arts,4
+16,Hanoi University of Education,4
+16,Education University - Hanoi National University,4
+16,HCMC University of Education,1
+16,Central University of Art Education,3
+16,University of Foreign Languages ??- Hanoi National University (QHF),3
+16,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+16,University of Education - Thai Nguyen University,2
+16,University of Education - The University of Da Nang,2
+16,University of Education - Hue University,2
+16,Hanoi University of Education 2,5
+16,University of Social Sciences and Humanities - Hanoi National University,4
+16,Journalism Academy - Propaganda,2
+16,Journalism Academy - Propaganda,0
+16,Journalism Academy - Propaganda,2
+16,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+16,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+16,University of Labor - Society (Hanoi Campus),2
+16,Labor - Social University (Hanoi Campus),5
+16,University Union,5
+16,Ton Duc Thang University,5
+16,University of Education - The University of Da Nang,3
+16,University of Labor - Society (Southern campus),3
+16,University of Labor - Society (Southern campus),0
+16,University of Labor - Society (Son Tay Campus),5
+16,Vietnamese Women's Academy,3
+16,University of Science - Hue University,1
+16,Quy Nhon University,1
+16,University of Science - Thai Nguyen University,5
+16,"Thanh Hoa University of Culture, Sports and Tourism",2
+16,Hoa Binh University,4
+16,National Economic University,3
+16,University of Economics - Hanoi National University,0
+16,University of Commerce,1
+16,Foreign Trade University,1
+16,Academy of Finance,3
+16,University of Economics - The University of Da Nang,5
+16,University of Economics - Law (UEL),1
+16,University of Economics and Finance Ho Chi Minh City (UEF),5
+16,University of Finance - Marketing (UFM),1
+16,Foreign Trade University of Ho Chi Minh City,2
+16,Banking Academy,0
+16,Banking University of Ho Chi Minh City,4
+16,Ton Duc Thang University,4
+16,Hanoi University of Internal Affairs,4
+16,Hanoi University,3
+16,Hanoi Capital University,2
+16,Hanoi University of Culture,5
+16,Hanoi University of Social Sciences and Humanities,4
+16,Hanoi University of Industry,0
+16,Hanoi Open University,2
+16,Vietnam Women's Academy,5
+16,University of Commerce,4
+16,National Economics University,4
+16,Thanh Do University,2
+16,Thang Long University,5
+16,FPT University,1
+16,Huu Nghi University of Technology and Management,4
+16,Dai Nam University,2
+17,Hanoi University of Technology:,3
+17,Military Technical Academy:,3
+17,"University of Technology, University of Da Nang:",3
+17,"Polytechnic University, National University of Ho Chi Minh City:",5
+17,"University of Industrial Technology, Thai Nguyen University:",0
+17,University of Transport:,4
+17,Hai Phong University:,2
+17,Hanoi University of Mining and Geology:,0
+17,Hanoi University of Agriculture:,5
+17,University of Transport Technology,5
+17,Irrigation University:,1
+17,Construction University:,5
+17,Forestry University:,3
+17,Electricity University:,1
+17,University of Economic and Technical Industry:,1
+17,Hanoi University of Industry:,1
+17,Quang Ninh Industrial University:,5
+17,Viet Hung University of Industry:,0
+17,Viet Tri University of Industry:,2
+17,Bac Giang University of Agriculture and Forestry:,5
+17,Sao Do University,1
+17,Hung Yen University of Technical Education,0
+17,Nam Dinh University of Technical Education,1
+17,Vinh University of Technical Education,5
+17,Vinh University of Industry,0
+17,Central Construction University,4
+17,Nha Trang University,0
+17,Ho Chi Minh City University of Industry,0
+17,Ho Chi Minh City University of Food Industry,2
+17,Ho Chi Minh City University of Transport,0
+17,Ho Chi Minh City University of Agriculture and Forestry,0
+17,Ho Chi Minh City University of Technical Education,5
+17,Tran Dai Nghia University,3
+17,Vietnam Maritime University,5
+17,Ngo Quyen University,3
+17,Ho Chi Minh City University of Technology and Technology,2
+17,Long An University of Economics and Industry,2
+17,Binh Duong University of Economics and Technology,2
+17,Lac Hong University,1
+17,Nguyen Tat Thanh University,4
+17,Saigon University of Technology,4
+17,Can Tho University,0
+17,Hanoi Medical University,2
+17,Ho Chi Minh City University of Medicine and Pharmacy,4
+17,Hanoi University of Pharmacy,1
+17,Military Medical Academy,1
+17,Thai Binh University of Medicine and Pharmacy,2
+17,Can Tho University of Medicine and Pharmacy,3
+17,Hue University of Medicine and Pharmacy,5
+17,Pham Ngoc Thach Medical University,3
+17,Faculty of Medicine - Ho Chi Minh City National University,0
+17,Vietnam Traditional Medicine and Pharmacy Institute,0
+17,Hai Phong University of Medicine and Pharmacy,0
+17,Vinh Medical University,5
+17,University of Medicine and Pharmacy - Thai Nguyen University,5
+17,HA NOI PHARMACEUTICAL DEPARTMENT,2
+17,University of Economic and Technical Industry,4
+17,Thanh Tay University,4
+17,Forestry University (Campus 1),2
+17,Hanoi University of Science and Technology ...,3
+17,University of Technology - The University of Da Nang,0
+17,Can Tho University,1
+17,Nha Trang University,1
+17,Nghe An University of Economics,0
+17,The University of Ba Ria - Vung Tau ...,1
+17,Vietnam National Academy of Music,4
+17,Vietnam University of Fine Arts,0
+17,Central University of Art Education,3
+17,Hue Academy of Music,3
+17,Ho Chi Minh City Conservatory of Music,2
+17,Ho Chi Minh City University of Fine Arts,0
+17,Military Culture - Art University,1
+17,Hanoi University of Theater and Cinema,5
+17,Northwestern College of Culture and Arts,1
+17,Dong Nai College of Decorative Arts,2
+17,Industrial Art University,0
+17,Asian University of Industrial Fine Arts,5
+17,Ho Chi Minh City University of Theater and Cinema,5
+17,Vietnam Dance Academy,2
+17,Viet Bac College of Culture and Arts,3
+17,An College of Culture and Arts,3
+17,Hanoi University of Education,1
+17,Education University - Hanoi National University,1
+17,HCMC University of Education,3
+17,Central University of Art Education,5
+17,University of Foreign Languages ??- Hanoi National University (QHF),0
+17,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+17,University of Education - Thai Nguyen University,2
+17,University of Education - The University of Da Nang,5
+17,University of Education - Hue University,3
+17,Hanoi University of Education 2,1
+17,University of Social Sciences and Humanities - Hanoi National University,3
+17,Journalism Academy - Propaganda,5
+17,Journalism Academy - Propaganda,0
+17,Journalism Academy - Propaganda,0
+17,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+17,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+17,University of Labor - Society (Hanoi Campus),0
+17,Labor - Social University (Hanoi Campus),4
+17,University Union,2
+17,Ton Duc Thang University,0
+17,University of Education - The University of Da Nang,2
+17,University of Labor - Society (Southern campus),3
+17,University of Labor - Society (Southern campus),3
+17,University of Labor - Society (Son Tay Campus),2
+17,Vietnamese Women's Academy,3
+17,University of Science - Hue University,0
+17,Quy Nhon University,1
+17,University of Science - Thai Nguyen University,0
+17,"Thanh Hoa University of Culture, Sports and Tourism",0
+17,Hoa Binh University,3
+17,National Economic University,5
+17,University of Economics - Hanoi National University,4
+17,University of Commerce,3
+17,Foreign Trade University,4
+17,Academy of Finance,1
+17,University of Economics - The University of Da Nang,1
+17,University of Economics - Law (UEL),1
+17,University of Economics and Finance Ho Chi Minh City (UEF),0
+17,University of Finance - Marketing (UFM),0
+17,Foreign Trade University of Ho Chi Minh City,5
+17,Banking Academy,3
+17,Banking University of Ho Chi Minh City,1
+17,Ton Duc Thang University,5
+17,Hanoi University of Internal Affairs,4
+17,Hanoi University,3
+17,Hanoi Capital University,0
+17,Hanoi University of Culture,5
+17,Hanoi University of Social Sciences and Humanities,0
+17,Hanoi University of Industry,0
+17,Hanoi Open University,0
+17,Vietnam Women's Academy,1
+17,University of Commerce,4
+17,National Economics University,1
+17,Thanh Do University,5
+17,Thang Long University,3
+17,FPT University,0
+17,Huu Nghi University of Technology and Management,5
+17,Dai Nam University,5
+18,Hanoi University of Technology:,3
+18,Military Technical Academy:,3
+18,"University of Technology, University of Da Nang:",1
+18,"Polytechnic University, National University of Ho Chi Minh City:",3
+18,"University of Industrial Technology, Thai Nguyen University:",4
+18,University of Transport:,2
+18,Hai Phong University:,1
+18,Hanoi University of Mining and Geology:,1
+18,Hanoi University of Agriculture:,4
+18,University of Transport Technology,5
+18,Irrigation University:,0
+18,Construction University:,1
+18,Forestry University:,5
+18,Electricity University:,5
+18,University of Economic and Technical Industry:,2
+18,Hanoi University of Industry:,4
+18,Quang Ninh Industrial University:,0
+18,Viet Hung University of Industry:,3
+18,Viet Tri University of Industry:,1
+18,Bac Giang University of Agriculture and Forestry:,1
+18,Sao Do University,1
+18,Hung Yen University of Technical Education,3
+18,Nam Dinh University of Technical Education,5
+18,Vinh University of Technical Education,3
+18,Vinh University of Industry,1
+18,Central Construction University,5
+18,Nha Trang University,5
+18,Ho Chi Minh City University of Industry,4
+18,Ho Chi Minh City University of Food Industry,1
+18,Ho Chi Minh City University of Transport,2
+18,Ho Chi Minh City University of Agriculture and Forestry,2
+18,Ho Chi Minh City University of Technical Education,1
+18,Tran Dai Nghia University,4
+18,Vietnam Maritime University,3
+18,Ngo Quyen University,4
+18,Ho Chi Minh City University of Technology and Technology,0
+18,Long An University of Economics and Industry,2
+18,Binh Duong University of Economics and Technology,0
+18,Lac Hong University,3
+18,Nguyen Tat Thanh University,4
+18,Saigon University of Technology,4
+18,Can Tho University,2
+18,Hanoi Medical University,4
+18,Ho Chi Minh City University of Medicine and Pharmacy,2
+18,Hanoi University of Pharmacy,3
+18,Military Medical Academy,4
+18,Thai Binh University of Medicine and Pharmacy,2
+18,Can Tho University of Medicine and Pharmacy,3
+18,Hue University of Medicine and Pharmacy,3
+18,Pham Ngoc Thach Medical University,5
+18,Faculty of Medicine - Ho Chi Minh City National University,5
+18,Vietnam Traditional Medicine and Pharmacy Institute,2
+18,Hai Phong University of Medicine and Pharmacy,3
+18,Vinh Medical University,3
+18,University of Medicine and Pharmacy - Thai Nguyen University,1
+18,HA NOI PHARMACEUTICAL DEPARTMENT,2
+18,University of Economic and Technical Industry,3
+18,Thanh Tay University,0
+18,Forestry University (Campus 1),3
+18,Hanoi University of Science and Technology ...,1
+18,University of Technology - The University of Da Nang,1
+18,Can Tho University,5
+18,Nha Trang University,1
+18,Nghe An University of Economics,4
+18,The University of Ba Ria - Vung Tau ...,3
+18,Vietnam National Academy of Music,4
+18,Vietnam University of Fine Arts,2
+18,Central University of Art Education,2
+18,Hue Academy of Music,3
+18,Ho Chi Minh City Conservatory of Music,4
+18,Ho Chi Minh City University of Fine Arts,3
+18,Military Culture - Art University,0
+18,Hanoi University of Theater and Cinema,1
+18,Northwestern College of Culture and Arts,5
+18,Dong Nai College of Decorative Arts,2
+18,Industrial Art University,5
+18,Asian University of Industrial Fine Arts,0
+18,Ho Chi Minh City University of Theater and Cinema,1
+18,Vietnam Dance Academy,4
+18,Viet Bac College of Culture and Arts,1
+18,An College of Culture and Arts,1
+18,Hanoi University of Education,2
+18,Education University - Hanoi National University,1
+18,HCMC University of Education,1
+18,Central University of Art Education,4
+18,University of Foreign Languages ??- Hanoi National University (QHF),5
+18,University of Social Sciences and Humanities - National University of Ho Chi Minh City,2
+18,University of Education - Thai Nguyen University,2
+18,University of Education - The University of Da Nang,3
+18,University of Education - Hue University,1
+18,Hanoi University of Education 2,1
+18,University of Social Sciences and Humanities - Hanoi National University,2
+18,Journalism Academy - Propaganda,5
+18,Journalism Academy - Propaganda,0
+18,Journalism Academy - Propaganda,1
+18,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+18,University of Social Sciences and Humanities - National University of Ho Chi Minh City,4
+18,University of Labor - Society (Hanoi Campus),5
+18,Labor - Social University (Hanoi Campus),2
+18,University Union,1
+18,Ton Duc Thang University,1
+18,University of Education - The University of Da Nang,5
+18,University of Labor - Society (Southern campus),2
+18,University of Labor - Society (Southern campus),3
+18,University of Labor - Society (Son Tay Campus),3
+18,Vietnamese Women's Academy,2
+18,University of Science - Hue University,4
+18,Quy Nhon University,0
+18,University of Science - Thai Nguyen University,4
+18,"Thanh Hoa University of Culture, Sports and Tourism",1
+18,Hoa Binh University,5
+18,National Economic University,1
+18,University of Economics - Hanoi National University,4
+18,University of Commerce,0
+18,Foreign Trade University,3
+18,Academy of Finance,3
+18,University of Economics - The University of Da Nang,5
+18,University of Economics - Law (UEL),4
+18,University of Economics and Finance Ho Chi Minh City (UEF),0
+18,University of Finance - Marketing (UFM),5
+18,Foreign Trade University of Ho Chi Minh City,0
+18,Banking Academy,0
+18,Banking University of Ho Chi Minh City,3
+18,Ton Duc Thang University,5
+18,Hanoi University of Internal Affairs,5
+18,Hanoi University,3
+18,Hanoi Capital University,5
+18,Hanoi University of Culture,0
+18,Hanoi University of Social Sciences and Humanities,2
+18,Hanoi University of Industry,0
+18,Hanoi Open University,3
+18,Vietnam Women's Academy,3
+18,University of Commerce,5
+18,National Economics University,5
+18,Thanh Do University,0
+18,Thang Long University,4
+18,FPT University,5
+18,Huu Nghi University of Technology and Management,5
+18,Dai Nam University,4
+19,Hanoi University of Technology:,1
+19,Military Technical Academy:,5
+19,"University of Technology, University of Da Nang:",1
+19,"Polytechnic University, National University of Ho Chi Minh City:",5
+19,"University of Industrial Technology, Thai Nguyen University:",3
+19,University of Transport:,2
+19,Hai Phong University:,3
+19,Hanoi University of Mining and Geology:,3
+19,Hanoi University of Agriculture:,2
+19,University of Transport Technology,0
+19,Irrigation University:,3
+19,Construction University:,4
+19,Forestry University:,4
+19,Electricity University:,0
+19,University of Economic and Technical Industry:,5
+19,Hanoi University of Industry:,2
+19,Quang Ninh Industrial University:,1
+19,Viet Hung University of Industry:,3
+19,Viet Tri University of Industry:,2
+19,Bac Giang University of Agriculture and Forestry:,2
+19,Sao Do University,2
+19,Hung Yen University of Technical Education,2
+19,Nam Dinh University of Technical Education,5
+19,Vinh University of Technical Education,1
+19,Vinh University of Industry,3
+19,Central Construction University,5
+19,Nha Trang University,2
+19,Ho Chi Minh City University of Industry,1
+19,Ho Chi Minh City University of Food Industry,0
+19,Ho Chi Minh City University of Transport,0
+19,Ho Chi Minh City University of Agriculture and Forestry,0
+19,Ho Chi Minh City University of Technical Education,4
+19,Tran Dai Nghia University,4
+19,Vietnam Maritime University,2
+19,Ngo Quyen University,4
+19,Ho Chi Minh City University of Technology and Technology,0
+19,Long An University of Economics and Industry,2
+19,Binh Duong University of Economics and Technology,5
+19,Lac Hong University,5
+19,Nguyen Tat Thanh University,4
+19,Saigon University of Technology,3
+19,Can Tho University,5
+19,Hanoi Medical University,5
+19,Ho Chi Minh City University of Medicine and Pharmacy,4
+19,Hanoi University of Pharmacy,0
+19,Military Medical Academy,1
+19,Thai Binh University of Medicine and Pharmacy,0
+19,Can Tho University of Medicine and Pharmacy,1
+19,Hue University of Medicine and Pharmacy,1
+19,Pham Ngoc Thach Medical University,1
+19,Faculty of Medicine - Ho Chi Minh City National University,3
+19,Vietnam Traditional Medicine and Pharmacy Institute,0
+19,Hai Phong University of Medicine and Pharmacy,0
+19,Vinh Medical University,4
+19,University of Medicine and Pharmacy - Thai Nguyen University,5
+19,HA NOI PHARMACEUTICAL DEPARTMENT,0
+19,University of Economic and Technical Industry,4
+19,Thanh Tay University,4
+19,Forestry University (Campus 1),2
+19,Hanoi University of Science and Technology ...,5
+19,University of Technology - The University of Da Nang,4
+19,Can Tho University,1
+19,Nha Trang University,2
+19,Nghe An University of Economics,5
+19,The University of Ba Ria - Vung Tau ...,2
+19,Vietnam National Academy of Music,0
+19,Vietnam University of Fine Arts,4
+19,Central University of Art Education,4
+19,Hue Academy of Music,1
+19,Ho Chi Minh City Conservatory of Music,4
+19,Ho Chi Minh City University of Fine Arts,3
+19,Military Culture - Art University,4
+19,Hanoi University of Theater and Cinema,0
+19,Northwestern College of Culture and Arts,1
+19,Dong Nai College of Decorative Arts,2
+19,Industrial Art University,2
+19,Asian University of Industrial Fine Arts,3
+19,Ho Chi Minh City University of Theater and Cinema,5
+19,Vietnam Dance Academy,4
+19,Viet Bac College of Culture and Arts,2
+19,An College of Culture and Arts,5
+19,Hanoi University of Education,1
+19,Education University - Hanoi National University,0
+19,HCMC University of Education,0
+19,Central University of Art Education,4
+19,University of Foreign Languages ??- Hanoi National University (QHF),1
+19,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+19,University of Education - Thai Nguyen University,0
+19,University of Education - The University of Da Nang,1
+19,University of Education - Hue University,0
+19,Hanoi University of Education 2,5
+19,University of Social Sciences and Humanities - Hanoi National University,4
+19,Journalism Academy - Propaganda,2
+19,Journalism Academy - Propaganda,5
+19,Journalism Academy - Propaganda,2
+19,University of Social Sciences and Humanities - National University of Ho Chi Minh City,0
+19,University of Social Sciences and Humanities - National University of Ho Chi Minh City,1
+19,University of Labor - Society (Hanoi Campus),0
+19,Labor - Social University (Hanoi Campus),4
+19,University Union,2
+19,Ton Duc Thang University,1
+19,University of Education - The University of Da Nang,1
+19,University of Labor - Society (Southern campus),2
+19,University of Labor - Society (Southern campus),1
+19,University of Labor - Society (Son Tay Campus),3
+19,Vietnamese Women's Academy,4
+19,University of Science - Hue University,0
+19,Quy Nhon University,3
+19,University of Science - Thai Nguyen University,0
+19,"Thanh Hoa University of Culture, Sports and Tourism",0
+19,Hoa Binh University,1
+19,National Economic University,3
+19,University of Economics - Hanoi National University,0
+19,University of Commerce,3
+19,Foreign Trade University,3
+19,Academy of Finance,1
+19,University of Economics - The University of Da Nang,3
+19,University of Economics - Law (UEL),1
+19,University of Economics and Finance Ho Chi Minh City (UEF),1
+19,University of Finance - Marketing (UFM),4
+19,Foreign Trade University of Ho Chi Minh City,4
+19,Banking Academy,4
+19,Banking University of Ho Chi Minh City,0
+19,Ton Duc Thang University,4
+19,Hanoi University of Internal Affairs,5
+19,Hanoi University,1
+19,Hanoi Capital University,3
+19,Hanoi University of Culture,3
+19,Hanoi University of Social Sciences and Humanities,5
+19,Hanoi University of Industry,0
+19,Hanoi Open University,2
+19,Vietnam Women's Academy,4
+19,University of Commerce,3
+19,National Economics University,5
+19,Thanh Do University,0
+19,Thang Long University,5
+19,FPT University,3
+19,Huu Nghi University of Technology and Management,0
+19,Dai Nam University,4
+20,Hanoi University of Technology:,3
+20,Military Technical Academy:,2
+20,"University of Technology, University of Da Nang:",2
+20,"Polytechnic University, National University of Ho Chi Minh City:",0
+20,"University of Industrial Technology, Thai Nguyen University:",1
+20,University of Transport:,1
+20,Hai Phong University:,5
+20,Hanoi University of Mining and Geology:,0
+20,Hanoi University of Agriculture:,3
+20,University of Transport Technology,3
+20,Irrigation University:,3
+20,Construction University:,0
+20,Forestry University:,4
+20,Electricity University:,2
+20,University of Economic and Technical Industry:,2
+20,Hanoi University of Industry:,2
+20,Quang Ninh Industrial University:,4
+20,Viet Hung University of Industry:,0
+20,Viet Tri University of Industry:,1
+20,Bac Giang University of Agriculture and Forestry:,0
+20,Sao Do University,2
+20,Hung Yen University of Technical Education,5
+20,Nam Dinh University of Technical Education,0
+20,Vinh University of Technical Education,4
+20,Vinh University of Industry,4
+20,Central Construction University,1
+20,Nha Trang University,5
+20,Ho Chi Minh City University of Industry,0
+20,Ho Chi Minh City University of Food Industry,2
+20,Ho Chi Minh City University of Transport,4
+20,Ho Chi Minh City University of Agriculture and Forestry,2
+20,Ho Chi Minh City University of Technical Education,1
+20,Tran Dai Nghia University,4
+20,Vietnam Maritime University,0
+20,Ngo Quyen University,3
+20,Ho Chi Minh City University of Technology and Technology,0
+20,Long An University of Economics and Industry,1
+20,Binh Duong University of Economics and Technology,4
+20,Lac Hong University,5
+20,Nguyen Tat Thanh University,4
+20,Saigon University of Technology,4
+20,Can Tho University,0
+20,Hanoi Medical University,5
+20,Ho Chi Minh City University of Medicine and Pharmacy,1
+20,Hanoi University of Pharmacy,2
+20,Military Medical Academy,5
+20,Thai Binh University of Medicine and Pharmacy,1
+20,Can Tho University of Medicine and Pharmacy,0
+20,Hue University of Medicine and Pharmacy,5
+20,Pham Ngoc Thach Medical University,0
+20,Faculty of Medicine - Ho Chi Minh City National University,1
+20,Vietnam Traditional Medicine and Pharmacy Institute,2
+20,Hai Phong University of Medicine and Pharmacy,2
+20,Vinh Medical University,1
+20,University of Medicine and Pharmacy - Thai Nguyen University,1
+20,HA NOI PHARMACEUTICAL DEPARTMENT,3
+20,University of Economic and Technical Industry,5
+20,Thanh Tay University,2
+20,Forestry University (Campus 1),2
+20,Hanoi University of Science and Technology ...,4
+20,University of Technology - The University of Da Nang,5
+20,Can Tho University,5
+20,Nha Trang University,1
+20,Nghe An University of Economics,0
+20,The University of Ba Ria - Vung Tau ...,0
+20,Vietnam National Academy of Music,1
+20,Vietnam University of Fine Arts,5
+20,Central University of Art Education,1
+20,Hue Academy of Music,3
+20,Ho Chi Minh City Conservatory of Music,0
+20,Ho Chi Minh City University of Fine Arts,2
+20,Military Culture - Art University,4
+20,Hanoi University of Theater and Cinema,1
+20,Northwestern College of Culture and Arts,5
+20,Dong Nai College of Decorative Arts,0
+20,Industrial Art University,4
+20,Asian University of Industrial Fine Arts,3
+20,Ho Chi Minh City University of Theater and Cinema,1
+20,Vietnam Dance Academy,4
+20,Viet Bac College of Culture and Arts,2
+20,An College of Culture and Arts,3
+20,Hanoi University of Education,2
+20,Education University - Hanoi National University,5
+20,HCMC University of Education,4
+20,Central University of Art Education,4
+20,University of Foreign Languages ??- Hanoi National University (QHF),0
+20,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+20,University of Education - Thai Nguyen University,0
+20,University of Education - The University of Da Nang,5
+20,University of Education - Hue University,1
+20,Hanoi University of Education 2,3
+20,University of Social Sciences and Humanities - Hanoi National University,4
+20,Journalism Academy - Propaganda,0
+20,Journalism Academy - Propaganda,2
+20,Journalism Academy - Propaganda,0
+20,University of Social Sciences and Humanities - National University of Ho Chi Minh City,3
+20,University of Social Sciences and Humanities - National University of Ho Chi Minh City,5
+20,University of Labor - Society (Hanoi Campus),0
+20,Labor - Social University (Hanoi Campus),2
+20,University Union,2
+20,Ton Duc Thang University,0
+20,University of Education - The University of Da Nang,5
+20,University of Labor - Society (Southern campus),4
+20,University of Labor - Society (Southern campus),0
+20,University of Labor - Society (Son Tay Campus),0
+20,Vietnamese Women's Academy,4
+20,University of Science - Hue University,5
+20,Quy Nhon University,3
+20,University of Science - Thai Nguyen University,2
+20,"Thanh Hoa University of Culture, Sports and Tourism",3
+20,Hoa Binh University,3
+20,National Economic University,5
+20,University of Economics - Hanoi National University,1
+20,University of Commerce,0
+20,Foreign Trade University,2
+20,Academy of Finance,0
+20,University of Economics - The University of Da Nang,5
+20,University of Economics - Law (UEL),3
+20,University of Economics and Finance Ho Chi Minh City (UEF),5
+20,University of Finance - Marketing (UFM),4
+20,Foreign Trade University of Ho Chi Minh City,3
+20,Banking Academy,1
+20,Banking University of Ho Chi Minh City,5
+20,Ton Duc Thang University,4
+20,Hanoi University of Internal Affairs,0
+20,Hanoi University,3
+20,Hanoi Capital University,4
+20,Hanoi University of Culture,3
+20,Hanoi University of Social Sciences and Humanities,0
+20,Hanoi University of Industry,2
+20,Hanoi Open University,1
+20,Vietnam Women's Academy,5
+20,University of Commerce,2
+20,National Economics University,5
+20,Thanh Do University,2
+20,Thang Long University,2
+20,FPT University,3
+20,Huu Nghi University of Technology and Management,1
+20,Dai Nam University,0

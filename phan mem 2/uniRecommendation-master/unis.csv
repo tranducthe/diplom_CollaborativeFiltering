@@ -1,0 +1,140 @@
+ID,Name_Uni,Main_topic
+1,Hanoi University of Technology:,Group1
+2,Military Technical Academy:,Group1
+3,"University of Technology, University of Da Nang:",Group1
+4,"Polytechnic University, National University of Ho Chi Minh City:",Group1
+5,"University of Industrial Technology, Thai Nguyen University:",Group1
+6,University of Transport:,Group1
+7,Hai Phong University:,Group1
+8,Hanoi University of Mining and Geology:,Group1
+9,Hanoi University of Agriculture:,Group1
+10,University of Transport Technology,Group1
+11,Irrigation University:,Group1
+12,Construction University:,Group1
+13,Forestry University:,Group1
+14,Electricity University:,Group1
+15,University of Economic and Technical Industry:,Group1
+16,Hanoi University of Industry:,Group1
+17,Quang Ninh Industrial University:,Group1
+18,Viet Hung University of Industry:,Group1
+19,Viet Tri University of Industry:,Group1
+20,Bac Giang University of Agriculture and Forestry:,Group1
+21,Sao Do University,Group1
+22,Hung Yen University of Technical Education,Group1
+23,Nam Dinh University of Technical Education,Group1
+24,Vinh University of Technical Education,Group1
+25,Vinh University of Industry,Group1
+26,Central Construction University,Group1
+27,Nha Trang University,Group1
+28,Ho Chi Minh City University of Industry,Group1
+29,Ho Chi Minh City University of Food Industry,Group1
+30,Ho Chi Minh City University of Transport,Group1
+31,Ho Chi Minh City University of Agriculture and Forestry,Group1
+32,Ho Chi Minh City University of Technical Education,Group1
+33,Tran Dai Nghia University,Group1
+34,Vietnam Maritime University,Group1
+35,Ngo Quyen University,Group1
+36,Ho Chi Minh City University of Technology and Technology,Group1
+37,Long An University of Economics and Industry,Group1
+38,Binh Duong University of Economics and Technology,Group1
+39,Lac Hong University,Group1
+40,Nguyen Tat Thanh University,Group1
+41,Saigon University of Technology,Group1
+42,Can Tho University,Group1
+43,Hanoi Medical University,Group2
+44,Ho Chi Minh City University of Medicine and Pharmacy,Group2
+45,Hanoi University of Pharmacy,Group2
+46,Military Medical Academy,Group2
+47,Thai Binh University of Medicine and Pharmacy,Group2
+48,Can Tho University of Medicine and Pharmacy,Group2
+49,Hue University of Medicine and Pharmacy,Group2
+50,Pham Ngoc Thach Medical University,Group2
+51,Faculty of Medicine - Ho Chi Minh City National University,Group2
+52,Vietnam Traditional Medicine and Pharmacy Institute,Group2
+53,Hai Phong University of Medicine and Pharmacy,Group2
+54,Vinh Medical University,Group2
+55,University of Medicine and Pharmacy - Thai Nguyen University,Group2
+56,HA NOI PHARMACEUTICAL DEPARTMENT,Group2
+57,University of Economic and Technical Industry,Group2
+58,Thanh Tay University,Group2
+59,Forestry University (Campus 1),Group2
+60,Hanoi University of Science and Technology ...,Group2
+61,University of Technology - The University of Da Nang,Group2
+62,Can Tho University,Group2
+63,Nha Trang University,Group2
+64,Nghe An University of Economics,Group2
+65,The University of Ba Ria - Vung Tau ...,Group2
+66,Vietnam National Academy of Music,Group3
+67,Vietnam University of Fine Arts,Group3
+68,Central University of Art Education,Group3
+69,Hue Academy of Music,Group3
+70,Ho Chi Minh City Conservatory of Music,Group3
+71,Ho Chi Minh City University of Fine Arts,Group3
+72,Military Culture - Art University,Group3
+73,Hanoi University of Theater and Cinema,Group3
+74,Northwestern College of Culture and Arts,Group3
+75,Dong Nai College of Decorative Arts,Group3
+76,Industrial Art University,Group3
+77,Asian University of Industrial Fine Arts,Group3
+78,Ho Chi Minh City University of Theater and Cinema,Group3
+79,Vietnam Dance Academy,Group3
+80,Viet Bac College of Culture and Arts,Group3
+81,An College of Culture and Arts,Group3
+82,Hanoi University of Education,Group4
+83,Education University - Hanoi National University,Group4
+84,HCMC University of Education,Group4
+85,Central University of Art Education,Group4
+86,University of Foreign Languages ??- Hanoi National University (QHF),Group4
+87,University of Social Sciences and Humanities - National University of Ho Chi Minh City,Group4
+88,University of Education - Thai Nguyen University,Group4
+89,University of Education - The University of Da Nang,Group4
+90,University of Education - Hue University,Group4
+91,Hanoi University of Education 2,Group4
+92,University of Social Sciences and Humanities - Hanoi National University,Group4
+93,Journalism Academy - Propaganda,Group4
+94,Journalism Academy - Propaganda,Group4
+95,Journalism Academy - Propaganda,Group4
+96,University of Social Sciences and Humanities - National University of Ho Chi Minh City,Group4
+97,University of Social Sciences and Humanities - National University of Ho Chi Minh City,Group4
+98,University of Labor - Society (Hanoi Campus),Group4
+99,Labor - Social University (Hanoi Campus),Group4
+100,University Union,Group4
+101,Ton Duc Thang University,Group4
+102,University of Education - The University of Da Nang,Group4
+103,University of Labor - Society (Southern campus),Group4
+104,University of Labor - Society (Southern campus),Group4
+105,University of Labor - Society (Son Tay Campus),Group4
+106,Vietnamese Women's Academy,Group4
+107,University of Science - Hue University,Group4
+108,Quy Nhon University,Group4
+109,University of Science - Thai Nguyen University,Group4
+110,"Thanh Hoa University of Culture, Sports and Tourism",Group4
+111,Hoa Binh University,Group4
+112,National Economic University,Group5
+113,University of Economics - Hanoi National University,Group5
+114,University of Commerce,Group5
+115,Foreign Trade University,Group5
+116,Academy of Finance,Group5
+117,University of Economics - The University of Da Nang,Group5
+118,University of Economics - Law (UEL),Group5
+119,University of Economics and Finance Ho Chi Minh City (UEF),Group5
+120,University of Finance - Marketing (UFM),Group5
+121,Foreign Trade University of Ho Chi Minh City,Group5
+122,Banking Academy,Group5
+123,Banking University of Ho Chi Minh City,Group5
+124,Ton Duc Thang University,Group5
+125,Hanoi University of Internal Affairs,Group6
+126,Hanoi University,Group6
+127,Hanoi Capital University,Group6
+128,Hanoi University of Culture,Group6
+129,Hanoi University of Social Sciences and Humanities,Group6
+130,Hanoi University of Industry,Group6
+131,Hanoi Open University,Group6
+132,Vietnam Women's Academy,Group6
+133,University of Commerce,Group6
+134,National Economics University,Group6
+135,Thanh Do University,Group6
+136,Thang Long University,Group6
+137,FPT University,Group6
+138,Huu Nghi University of Technology and Management,Group6
+139,Dai Nam University,Group6
